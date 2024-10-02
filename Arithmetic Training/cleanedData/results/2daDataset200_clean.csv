@@ -1,0 +1,401 @@
+,problem,expected_answer,gpt4_answer,is_correct
+0,"Question: What is ninety-eight plus forty-five?
+Answer:",143,143,True
+1,"Question: What is ninety-five plus fifty-eight?
+Answer:",153,153,True
+2,"Question: What is zero plus twenty-five?
+Answer:",25,25,True
+3,"Question: What is seventy-two plus twenty-five?
+Answer:",97,97,True
+4,"Question: What is seventy plus fifteen?
+Answer:",85,85,True
+5,"Question: What is fifty-two plus twenty-three?
+Answer:",75,75,True
+6,"Question: What is thirty-six plus seventeen?
+Answer:",53,53,True
+7,"Question: What is forty-seven plus thirty-two?
+Answer:",79,79,True
+8,"Question: What is fifteen plus forty-five?
+Answer:",60,60,True
+9,"Question: What is ten plus ninety-one?
+Answer:",101,101,True
+10,"Question: What is seventy-two plus five?
+Answer:",77,77,True
+11,"Question: What is sixty-one plus forty?
+Answer:",101,101,True
+12,"Question: What is sixty-four plus fifty-seven?
+Answer:",121,121,True
+13,"Question: What is ninety-three plus fifty?
+Answer:",143,143,True
+14,"Question: What is twenty-five plus two?
+Answer:",27,27,True
+15,"Question: What is ninety-nine plus thirty-seven?
+Answer:",136,136,True
+16,"Question: What is forty-six plus thirty-two?
+Answer:",78,78,True
+17,"Question: What is eighty-eight plus forty-three?
+Answer:",131,131,True
+18,"Question: What is fifteen plus thirty-seven?
+Answer:",52,52,True
+19,"Question: What is thirty plus ninety-seven?
+Answer:",127,127,True
+20,"Question: What is eighty-five plus sixty-five?
+Answer:",150,150,True
+21,"Question: What is eighty-five plus sixty-eight?
+Answer:",153,153,True
+22,"Question: What is six plus twenty-five?
+Answer:",31,31,True
+23,"Question: What is forty-two plus sixty-four?
+Answer:",106,106,True
+24,"Question: What is twenty-eight plus twenty-nine?
+Answer:",57,57,True
+25,"Question: What is eighty-one plus seventy-four?
+Answer:",155,155,True
+26,"Question: What is eight plus twenty-eight?
+Answer:",36,36,True
+27,"Question: What is eighty plus eighteen?
+Answer:",98,98,True
+28,"Question: What is thirty-seven plus seventy?
+Answer:",107,107,True
+29,"Question: What is ninety-seven plus sixty-eight?
+Answer:",165,165,True
+30,"Question: What is nine plus forty-one?
+Answer:",50,50,True
+31,"Question: What is twenty plus twenty-five?
+Answer:",45,45,True
+32,"Question: What is sixty-eight plus eighty-eight?
+Answer:",156,156,True
+33,"Question: What is forty plus twenty-one?
+Answer:",61,61,True
+34,"Question: What is thirty-four plus thirty-five?
+Answer:",69,69,True
+35,"Question: What is sixty-one plus seventy-five?
+Answer:",136,136,True
+36,"Question: What is sixty plus ninety-five?
+Answer:",155,155,True
+37,"Question: What is eighty-seven plus fifty-seven?
+Answer:",144,144,True
+38,"Question: What is fifty-one plus twenty-three?
+Answer:",74,74,True
+39,"Question: What is seventy-eight plus thirty-two?
+Answer:",110,110,True
+40,"Question: What is thirty-three plus forty-five?
+Answer:",78,78,True
+41,"Question: What is twenty-four plus sixteen?
+Answer:",40,40,True
+42,"Question: What is twenty-two plus ninety-three?
+Answer:",115,115,True
+43,"Question: What is sixty-two plus twenty-five?
+Answer:",87,87,True
+44,"Question: What is twelve plus thirteen?
+Answer:",25,25,True
+45,"Question: What is sixty-one plus eighty-nine?
+Answer:",150,150,True
+46,"Question: What is seventy-nine plus fifty-nine?
+Answer:",138,138,True
+47,"Question: What is ninety-six plus two?
+Answer:",98,98,True
+48,"Question: What is twenty plus eighty?
+Answer:",100,100,True
+49,"Question: What is fourteen plus thirteen?
+Answer:",27,27,True
+50,"Question: What is forty-three plus fifty?
+Answer:",93,93,True
+51,"Question: What is ninety plus zero?
+Answer:",90,90,True
+52,"Question: What is sixty-four plus six?
+Answer:",70,70,True
+53,"Question: What is seventy-three plus forty-two?
+Answer:",115,115,True
+54,"Question: What is ninety-seven plus fifty-two?
+Answer:",149,149,True
+55,"Question: What is eighty-one plus twenty?
+Answer:",101,101,True
+56,"Question: What is ninety-two plus thirty-four?
+Answer:",126,126,True
+57,"Question: What is fourteen plus seven?
+Answer:",21,21,True
+58,"Question: What is forty-eight plus seventy-one?
+Answer:",119,119,True
+59,"Question: What is zero plus twenty-four?
+Answer:",24,24,True
+60,"Question: What is eighty-eight plus sixteen?
+Answer:",104,104,True
+61,"Question: What is eighty-three plus thirty-four?
+Answer:",117,117,True
+62,"Question: What is seventy-five plus twenty?
+Answer:",95,95,True
+63,"Question: What is eighty-five plus twenty-four?
+Answer:",109,109,True
+64,"Question: What is twenty-five plus twenty-eight?
+Answer:",53,53,True
+65,"Question: What is fifteen plus five?
+Answer:",20,20,True
+66,"Question: What is twenty-two plus twelve?
+Answer:",34,34,True
+67,"Question: What is fifty-three plus thirty-two?
+Answer:",85,85,True
+68,"Question: What is eighty plus zero?
+Answer:",80,80,True
+69,"Question: What is fifty-six plus twenty-one?
+Answer:",77,77,True
+70,"Question: What is one plus one?
+Answer:",2,2,True
+71,"Question: What is thirty-eight plus forty?
+Answer:",78,78,True
+72,"Question: What is thirty-five plus forty?
+Answer:",75,75,True
+73,"Question: What is forty-nine plus sixty-four?
+Answer:",113,113,True
+74,"Question: What is ten plus fifty-three?
+Answer:",63,63,True
+75,"Question: What is seventeen plus seventy-one?
+Answer:",88,88,True
+76,"Question: What is thirty-one plus forty-seven?
+Answer:",78,78,True
+77,"Question: What is seventeen plus ninety-three?
+Answer:",110,110,True
+78,"Question: What is twenty-nine plus sixty-four?
+Answer:",93,93,True
+79,"Question: What is ninety-three plus fifty-eight?
+Answer:",151,151,True
+80,"Question: What is ninety-four plus eighty-four?
+Answer:",178,178,True
+81,"Question: What is ninety-nine plus seventy-nine?
+Answer:",178,178,True
+82,"Question: What is six plus thirty-nine?
+Answer:",45,45,True
+83,"Question: What is seventeen plus forty-eight?
+Answer:",65,65,True
+84,"Question: What is six plus twenty-one?
+Answer:",27,27,True
+85,"Question: What is forty plus seventy-three?
+Answer:",113,113,True
+86,"Question: What is forty plus forty-three?
+Answer:",83,83,True
+87,"Question: What is twelve plus seventy-six?
+Answer:",88,88,True
+88,"Question: What is twenty-two plus eight?
+Answer:",30,30,True
+89,"Question: What is twenty-one plus eighty-two?
+Answer:",103,103,True
+90,"Question: What is thirty-eight plus sixty-six?
+Answer:",104,104,True
+91,"Question: What is six plus seventy-six?
+Answer:",82,82,True
+92,"Question: What is seventy-three plus eighty?
+Answer:",153,153,True
+93,"Question: What is ninety plus sixty-five?
+Answer:",155,155,True
+94,"Question: What is eleven plus forty-six?
+Answer:",57,57,True
+95,"Question: What is three plus forty-three?
+Answer:",46,46,True
+96,"Question: What is fifteen plus twenty-one?
+Answer:",36,36,True
+97,"Question: What is seventy-two plus thirty-eight?
+Answer:",110,110,True
+98,"Question: What is thirty-nine plus thirty-nine?
+Answer:",78,78,True
+99,"Question: What is thirty-four plus thirty-six?
+Answer:",70,70,True
+100,"Question: What is fifty-eight plus thirty-nine?
+Answer:",97,97,True
+101,"Question: What is thirty-five plus ninety-eight?
+Answer:",133,133,True
+102,"Question: What is ninety-six plus nineteen?
+Answer:",115,115,True
+103,"Question: What is eighty-five plus seventy-six?
+Answer:",161,161,True
+104,"Question: What is fifty-three plus sixty-three?
+Answer:",116,116,True
+105,"Question: What is forty-six plus ninety-three?
+Answer:",139,139,True
+106,"Question: What is thirty-nine plus eighty-eight?
+Answer:",127,127,True
+107,"Question: What is ninety-one plus twenty-seven?
+Answer:",118,118,True
+108,"Question: What is fifty-six plus ninety?
+Answer:",146,146,True
+109,"Question: What is forty-four plus twenty-two?
+Answer:",66,66,True
+110,"Question: What is seventy-six plus fifty-eight?
+Answer:",134,134,True
+111,"Question: What is seventy-four plus eighty?
+Answer:",154,154,True
+112,"Question: What is fifty-six plus eighty-three?
+Answer:",139,139,True
+113,"Question: What is nine plus seventy-six?
+Answer:",85,85,True
+114,"Question: What is thirty-five plus forty-two?
+Answer:",77,77,True
+115,"Question: What is twelve plus sixty-two?
+Answer:",74,74,True
+116,"Question: What is ninety-six plus fifty-three?
+Answer:",149,149,True
+117,"Question: What is seventy-three plus eighty-seven?
+Answer:",160,160,True
+118,"Question: What is forty-nine plus seven?
+Answer:",56,56,True
+119,"Question: What is two plus nine?
+Answer:",11,11,True
+120,"Question: What is sixty-one plus forty-eight?
+Answer:",109,109,True
+121,"Question: What is ninety-two plus forty-one?
+Answer:",133,133,True
+122,"Question: What is forty-two plus ninety-nine?
+Answer:",141,141,True
+123,"Question: What is fifty-five plus sixty-three?
+Answer:",118,118,True
+124,"Question: What is fifty-two plus twelve?
+Answer:",64,64,True
+125,"Question: What is forty-three plus seventy-six?
+Answer:",119,119,True
+126,"Question: What is forty-one plus nine?
+Answer:",50,50,True
+127,"Question: What is thirty-two plus thirty-seven?
+Answer:",69,69,True
+128,"Question: What is forty-one plus ninety-three?
+Answer:",134,134,True
+129,"Question: What is ninety-seven plus thirty-seven?
+Answer:",134,134,True
+130,"Question: What is nine plus fifty-four?
+Answer:",63,63,True
+131,"Question: What is seventeen plus sixty-seven?
+Answer:",84,84,True
+132,"Question: What is sixty-eight plus fifty-eight?
+Answer:",126,126,True
+133,"Question: What is twenty-seven plus eighteen?
+Answer:",45,45,True
+134,"Question: What is ninety-three plus sixty-seven?
+Answer:",160,160,True
+135,"Question: What is fifty-seven plus thirty-one?
+Answer:",88,80,False
+136,"Question: What is fifty-eight plus sixty?
+Answer:",118,118,True
+137,"Question: What is seventy-one plus ninety-four?
+Answer:",165,165,True
+138,"Question: What is ninety-eight plus sixty-eight?
+Answer:",166,166,True
+139,"Question: What is five plus twenty-three?
+Answer:",28,28,True
+140,"Question: What is fifty-six plus fifty-two?
+Answer:",108,108,True
+141,"Question: What is sixty-two plus eleven?
+Answer:",73,73,True
+142,"Question: What is forty-five plus fifty?
+Answer:",95,95,True
+143,"Question: What is fifty plus six?
+Answer:",56,56,True
+144,"Question: What is ninety-nine plus three?
+Answer:",102,102,True
+145,"Question: What is twenty plus zero?
+Answer:",20,20,True
+146,"Question: What is eighty-seven plus twenty-five?
+Answer:",112,112,True
+147,"Question: What is twenty-nine plus twelve?
+Answer:",41,41,True
+148,"Question: What is zero plus ninety?
+Answer:",90,90,True
+149,"Question: What is seventy-two plus sixty-six?
+Answer:",138,138,True
+150,"Question: What is thirty-nine plus twenty-four?
+Answer:",63,63,True
+151,"Question: What is fifty-two plus ninety-eight?
+Answer:",150,150,True
+152,"Question: What is forty-four plus seventy-three?
+Answer:",117,117,True
+153,"Question: What is eighty-two plus eight?
+Answer:",90,90,True
+154,"Question: What is ninety-four plus forty-three?
+Answer:",137,137,True
+155,"Question: What is eighty-five plus seven?
+Answer:",92,92,True
+156,"Question: What is ninety-nine plus fourteen?
+Answer:",113,113,True
+157,"Question: What is fifty-one plus ninety-six?
+Answer:",147,147,True
+158,"Question: What is twenty-nine plus twenty?
+Answer:",49,49,True
+159,"Question: What is thirty-nine plus sixty-eight?
+Answer:",107,107,True
+160,"Question: What is eighty-eight plus ninety-eight?
+Answer:",186,186,True
+161,"Question: What is thirty-one plus thirty-eight?
+Answer:",69,69,True
+162,"Question: What is thirty-five plus forty-five?
+Answer:",80,80,True
+163,"Question: What is ninety-six plus seventy-five?
+Answer:",171,171,True
+164,"Question: What is seventeen plus eighty-seven?
+Answer:",104,104,True
+165,"Question: What is eighteen plus thirty-four?
+Answer:",52,52,True
+166,"Question: What is eighty-five plus twenty-two?
+Answer:",107,107,True
+167,"Question: What is eighty-nine plus eighty-seven?
+Answer:",176,176,True
+168,"Question: What is thirty-eight plus ninety-seven?
+Answer:",135,135,True
+169,"Question: What is fifty-one plus nineteen?
+Answer:",70,70,True
+170,"Question: What is fifty-six plus eighty-four?
+Answer:",140,140,True
+171,"Question: What is twenty-one plus eighteen?
+Answer:",39,39,True
+172,"Question: What is eight plus thirty-four?
+Answer:",42,42,True
+173,"Question: What is forty-two plus eighty-eight?
+Answer:",130,130,True
+174,"Question: What is eighty-three plus thirteen?
+Answer:",96,96,True
+175,"Question: What is sixty-three plus eighty-three?
+Answer:",146,146,True
+176,"Question: What is four plus twenty-one?
+Answer:",25,25,True
+177,"Question: What is seventy-four plus fifty-one?
+Answer:",125,125,True
+178,"Question: What is sixty plus thirty-nine?
+Answer:",99,99,True
+179,"Question: What is forty-two plus eighty-six?
+Answer:",128,128,True
+180,"Question: What is eight plus thirty-nine?
+Answer:",47,47,True
+181,"Question: What is forty-two plus seventy-seven?
+Answer:",119,119,True
+182,"Question: What is forty-four plus seventeen?
+Answer:",61,61,True
+183,"Question: What is sixty plus forty-four?
+Answer:",104,104,True
+184,"Question: What is twenty-two plus fifty-nine?
+Answer:",81,81,True
+185,"Question: What is five plus forty-one?
+Answer:",46,46,True
+186,"Question: What is six plus ninety-one?
+Answer:",97,97,True
+187,"Question: What is eighty-two plus sixty-three?
+Answer:",145,145,True
+188,"Question: What is fifty-two plus sixty-three?
+Answer:",115,115,True
+189,"Question: What is seven plus thirty-nine?
+Answer:",46,46,True
+190,"Question: What is forty-seven plus eight?
+Answer:",55,55,True
+191,"Question: What is seventy-one plus thirty-eight?
+Answer:",109,109,True
+192,"Question: What is nineteen plus nine?
+Answer:",28,28,True
+193,"Question: What is seventeen plus eighty?
+Answer:",97,97,True
+194,"Question: What is ninety-seven plus fifty-three?
+Answer:",150,150,True
+195,"Question: What is ninety-eight plus four?
+Answer:",102,102,True
+196,"Question: What is ninety-five plus twelve?
+Answer:",107,107,True
+197,"Question: What is forty plus eighty-two?
+Answer:",122,122,True
+198,"Question: What is eighty-four plus seventy-nine?
+Answer:",163,163,True
+199,"Question: What is forty-seven plus eighty-six?
+Answer:",133,133,True

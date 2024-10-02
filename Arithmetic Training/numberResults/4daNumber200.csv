@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is 9923 plus 617?
+Answer:",10540,10540,True
+"Question: What is 7131 plus 6046?
+Answer:",13177,13177,True
+"Question: What is 6888 plus 6760?
+Answer:",13648,13648,True
+"Question: What is 7877 plus 3171?
+Answer:",11048,11048,True
+"Question: What is 2470 plus 7073?
+Answer:",9543,9543,True
+"Question: What is 5027 plus 9911?
+Answer:",14938,14938,True
+"Question: What is 4849 plus 5962?
+Answer:",10811,10811,True
+"Question: What is 6761 plus 4203?
+Answer:",10964,10964,True
+"Question: What is 7146 plus 8898?
+Answer:",16044,16044,True
+"Question: What is 7974 plus 4200?
+Answer:",12174,12174,True
+"Question: What is 7219 plus 350?
+Answer:",7569,7569,True
+"Question: What is 5510 plus 8562?
+Answer:",14072,14072,True
+"Question: What is 3511 plus 6?
+Answer:",3517,3517,True
+"Question: What is 1908 plus 2296?
+Answer:",4204,4204,True
+"Question: What is 5827 plus 812?
+Answer:",6639,6639,True
+"Question: What is 8804 plus 7046?
+Answer:",15850,15850,True
+"Question: What is 542 plus 5341?
+Answer:",5883,5883,True
+"Question: What is 4743 plus 1007?
+Answer:",5750,5750,True
+"Question: What is 6043 plus 6227?
+Answer:",12270,12270,True
+"Question: What is 3746 plus 1410?
+Answer:",5156,5156,True
+"Question: What is 3851 plus 2711?
+Answer:",6562,6562,True
+"Question: What is 2233 plus 6222?
+Answer:",8455,8455,True
+"Question: What is 9783 plus 7722?
+Answer:",17505,17505,True
+"Question: What is 6055 plus 1123?
+Answer:",7178,7178,True
+"Question: What is 7217 plus 5391?
+Answer:",12608,12608,True
+"Question: What is 8639 plus 3737?
+Answer:",12376,12376,True
+"Question: What is 6485 plus 3918?
+Answer:",10403,10403,True
+"Question: What is 2572 plus 2104?
+Answer:",4676,4676,True
+"Question: What is 7671 plus 9740?
+Answer:",17411,17411,True
+"Question: What is 9740 plus 3466?
+Answer:",13206,13206,True
+"Question: What is 708 plus 8303?
+Answer:",9011,9011,True
+"Question: What is 3697 plus 4237?
+Answer:",7934,7934,True
+"Question: What is 3114 plus 8141?
+Answer:",11255,11255,True
+"Question: What is 9520 plus 7382?
+Answer:",16902,16902,True
+"Question: What is 2509 plus 1939?
+Answer:",4448,4448,True
+"Question: What is 4655 plus 8060?
+Answer:",12715,12715,True
+"Question: What is 3470 plus 3116?
+Answer:",6586,6586,True
+"Question: What is 803 plus 7584?
+Answer:",8387,8387,True
+"Question: What is 516 plus 3711?
+Answer:",4227,4227,True
+"Question: What is 6001 plus 8083?
+Answer:",14084,14084,True
+"Question: What is 2394 plus 2975?
+Answer:",5369,5369,True
+"Question: What is 4950 plus 3360?
+Answer:",8310,8310,True
+"Question: What is 9068 plus 827?
+Answer:",9895,9895,True
+"Question: What is 9055 plus 4880?
+Answer:",13935,13935,True
+"Question: What is 3904 plus 7073?
+Answer:",10977,10977,True
+"Question: What is 1012 plus 5763?
+Answer:",6775,6775,True
+"Question: What is 8050 plus 5248?
+Answer:",13298,13298,True
+"Question: What is 8698 plus 3473?
+Answer:",12171,12171,True
+"Question: What is 6524 plus 2891?
+Answer:",9415,9415,True
+"Question: What is 6339 plus 1519?
+Answer:",7858,7858,True
+"Question: What is 9586 plus 9522?
+Answer:",19108,19108,True
+"Question: What is 1203 plus 3670?
+Answer:",4873,4873,True
+"Question: What is 6444 plus 5124?
+Answer:",11568,11568,True
+"Question: What is 3251 plus 2896?
+Answer:",6147,6147,True
+"Question: What is 8140 plus 1206?
+Answer:",9346,9346,True
+"Question: What is 6104 plus 2454?
+Answer:",8558,8558,True
+"Question: What is 6855 plus 4040?
+Answer:",10895,10895,True
+"Question: What is 2789 plus 2910?
+Answer:",5699,5699,True
+"Question: What is 3014 plus 5710?
+Answer:",8724,8724,True
+"Question: What is 7056 plus 7702?
+Answer:",14758,14758,True
+"Question: What is 4362 plus 7432?
+Answer:",11794,11794,True
+"Question: What is 969 plus 3239?
+Answer:",4208,4208,True
+"Question: What is 2946 plus 7568?
+Answer:",10514,10514,True
+"Question: What is 9464 plus 7249?
+Answer:",16713,16713,True
+"Question: What is 3669 plus 671?
+Answer:",4340,4340,True
+"Question: What is 6978 plus 1516?
+Answer:",8494,8494,True
+"Question: What is 9214 plus 7022?
+Answer:",16236,16236,True
+"Question: What is 9630 plus 3180?
+Answer:",12810,12810,True
+"Question: What is 5658 plus 1884?
+Answer:",7542,7542,True
+"Question: What is 5954 plus 9641?
+Answer:",15595,15595,True
+"Question: What is 2390 plus 6184?
+Answer:",8574,8574,True
+"Question: What is 1016 plus 7160?
+Answer:",8176,8176,True
+"Question: What is 701 plus 9270?
+Answer:",9971,9971,True
+"Question: What is 6898 plus 9177?
+Answer:",16075,16075,True
+"Question: What is 4611 plus 6949?
+Answer:",11560,11560,True
+"Question: What is 2658 plus 1384?
+Answer:",4042,4042,True
+"Question: What is 1057 plus 3339?
+Answer:",4396,4396,True
+"Question: What is 7489 plus 8892?
+Answer:",16381,16381,True
+"Question: What is 2953 plus 6429?
+Answer:",9382,9382,True
+"Question: What is 1672 plus 3605?
+Answer:",5277,5277,True
+"Question: What is 2080 plus 4256?
+Answer:",6336,6336,True
+"Question: What is 3846 plus 3011?
+Answer:",6857,6857,True
+"Question: What is 7934 plus 5690?
+Answer:",13624,13624,True
+"Question: What is 6392 plus 3981?
+Answer:",10373,10373,True
+"Question: What is 5702 plus 5687?
+Answer:",11389,11389,True
+"Question: What is 7100 plus 5661?
+Answer:",12761,12761,True
+"Question: What is 6688 plus 8557?
+Answer:",15245,15245,True
+"Question: What is 3750 plus 6424?
+Answer:",10174,10174,True
+"Question: What is 7481 plus 2714?
+Answer:",10195,10195,True
+"Question: What is 7812 plus 2880?
+Answer:",10692,10692,True
+"Question: What is 7739 plus 566?
+Answer:",8305,8305,True
+"Question: What is 9997 plus 6454?
+Answer:",16451,16451,True
+"Question: What is 8289 plus 7596?
+Answer:",15885,15885,True
+"Question: What is 5007 plus 5095?
+Answer:",10102,10102,True
+"Question: What is 1913 plus 7356?
+Answer:",9269,9269,True
+"Question: What is 6818 plus 1775?
+Answer:",8593,8593,True
+"Question: What is 3688 plus 7853?
+Answer:",11541,11541,True
+"Question: What is 5731 plus 5944?
+Answer:",11675,11675,True
+"Question: What is 6332 plus 2907?
+Answer:",9239,9239,True
+"Question: What is 3616 plus 2438?
+Answer:",6054,6054,True
+"Question: What is 9501 plus 6966?
+Answer:",16467,16467,True
+"Question: What is 1578 plus 6849?
+Answer:",8427,8427,True
+"Question: What is 3659 plus 5485?
+Answer:",9144,9144,True
+"Question: What is 5955 plus 7222?
+Answer:",13177,13177,True
+"Question: What is 2688 plus 5549?
+Answer:",8237,8237,True
+"Question: What is 5643 plus 9419?
+Answer:",15062,15062,True
+"Question: What is 7561 plus 915?
+Answer:",8476,8476,True
+"Question: What is 3893 plus 8538?
+Answer:",12431,12431,True
+"Question: What is 5362 plus 7051?
+Answer:",12413,12413,True
+"Question: What is 8432 plus 467?
+Answer:",8899,8899,True
+"Question: What is 8519 plus 2422?
+Answer:",10941,10941,True
+"Question: What is 2478 plus 4176?
+Answer:",6654,6654,True
+"Question: What is 8666 plus 3141?
+Answer:",11807,11807,True
+"Question: What is 3768 plus 9545?
+Answer:",13313,13313,True
+"Question: What is 4612 plus 7816?
+Answer:",12428,12428,True
+"Question: What is 6565 plus 4061?
+Answer:",10626,10626,True
+"Question: What is 50 plus 8552?
+Answer:",8602,8602,True
+"Question: What is 2293 plus 2212?
+Answer:",4505,4505,True
+"Question: What is 1905 plus 5479?
+Answer:",7384,7384,True
+"Question: What is 4054 plus 1977?
+Answer:",6031,6031,True
+"Question: What is 1816 plus 9567?
+Answer:",11383,10383,False
+"Question: What is 2666 plus 1453?
+Answer:",4119,4119,True
+"Question: What is 1088 plus 5463?
+Answer:",6551,6551,True
+"Question: What is 5474 plus 1023?
+Answer:",6497,6497,True
+"Question: What is 6520 plus 9394?
+Answer:",15914,15914,True
+"Question: What is 1083 plus 1728?
+Answer:",2811,2811,True
+"Question: What is 7151 plus 7385?
+Answer:",14536,14536,True
+"Question: What is 4884 plus 1213?
+Answer:",6097,6097,True
+"Question: What is 4760 plus 414?
+Answer:",5174,5174,True
+"Question: What is 3762 plus 2401?
+Answer:",6163,6163,True
+"Question: What is 3806 plus 1270?
+Answer:",5076,5076,True
+"Question: What is 7352 plus 98?
+Answer:",7450,7450,True
+"Question: What is 9397 plus 2508?
+Answer:",11905,11905,True
+"Question: What is 2887 plus 855?
+Answer:",3742,3742,True
+"Question: What is 741 plus 6851?
+Answer:",7592,7592,True
+"Question: What is 4107 plus 4472?
+Answer:",8579,8579,True
+"Question: What is 6606 plus 7435?
+Answer:",14041,14041,True
+"Question: What is 1108 plus 9499?
+Answer:",10607,10607,True
+"Question: What is 6819 plus 65?
+Answer:",6884,6884,True
+"Question: What is 879 plus 9038?
+Answer:",9917,9917,True
+"Question: What is 4454 plus 2268?
+Answer:",6722,6722,True
+"Question: What is 6971 plus 5695?
+Answer:",12666,12666,True
+"Question: What is 2697 plus 3460?
+Answer:",6157,6157,True
+"Question: What is 358 plus 569?
+Answer:",927,927,True
+"Question: What is 4660 plus 9744?
+Answer:",14404,14404,True
+"Question: What is 3702 plus 5563?
+Answer:",9265,9265,True
+"Question: What is 2090 plus 3300?
+Answer:",5390,5390,True
+"Question: What is 9938 plus 6850?
+Answer:",16788,16788,True
+"Question: What is 9253 plus 394?
+Answer:",9647,9647,True
+"Question: What is 1182 plus 6527?
+Answer:",7709,7709,True
+"Question: What is 7319 plus 8152?
+Answer:",15471,15471,True
+"Question: What is 2114 plus 2015?
+Answer:",4129,4129,True
+"Question: What is 4705 plus 8699?
+Answer:",13404,13404,True
+"Question: What is 4602 plus 7229?
+Answer:",11831,11831,True
+"Question: What is 3565 plus 8475?
+Answer:",12040,12040,True
+"Question: What is 3913 plus 1614?
+Answer:",5527,5527,True
+"Question: What is 6457 plus 9836?
+Answer:",16293,16293,True
+"Question: What is 493 plus 2954?
+Answer:",3447,3447,True
+"Question: What is 9100 plus 6573?
+Answer:",15673,15673,True
+"Question: What is 6479 plus 780?
+Answer:",7259,7259,True
+"Question: What is 2394 plus 4767?
+Answer:",7161,7161,True
+"Question: What is 2423 plus 8364?
+Answer:",10787,10787,True
+"Question: What is 7543 plus 2617?
+Answer:",10160,10160,True
+"Question: What is 9698 plus 244?
+Answer:",9942,9942,True
+"Question: What is 8592 plus 4546?
+Answer:",13138,13138,True
+"Question: What is 7966 plus 5407?
+Answer:",13373,13373,True
+"Question: What is 6144 plus 1835?
+Answer:",7979,7979,True
+"Question: What is 5288 plus 2694?
+Answer:",7982,7982,True
+"Question: What is 5081 plus 4965?
+Answer:",10046,10046,True
+"Question: What is 6543 plus 1835?
+Answer:",8378,8378,True
+"Question: What is 9415 plus 9624?
+Answer:",19039,19039,True
+"Question: What is 9674 plus 6972?
+Answer:",16646,16646,True
+"Question: What is 9878 plus 1034?
+Answer:",10912,10912,True
+"Question: What is 9323 plus 7413?
+Answer:",16736,16736,True
+"Question: What is 80 plus 963?
+Answer:",1043,1043,True
+"Question: What is 869 plus 2437?
+Answer:",3306,3306,True
+"Question: What is 4788 plus 3878?
+Answer:",8666,8666,True
+"Question: What is 6952 plus 4020?
+Answer:",10972,10972,True
+"Question: What is 784 plus 8530?
+Answer:",9314,9314,True
+"Question: What is 215 plus 5092?
+Answer:",5307,5307,True
+"Question: What is 568 plus 9428?
+Answer:",9996,9996,True
+"Question: What is 3104 plus 6200?
+Answer:",9304,9304,True
+"Question: What is 4215 plus 7121?
+Answer:",11336,11336,True
+"Question: What is 7364 plus 2040?
+Answer:",9404,9404,True
+"Question: What is 3229 plus 6714?
+Answer:",9943,9943,True
+"Question: What is 6763 plus 3262?
+Answer:",10025,10025,True
+"Question: What is 2159 plus 8618?
+Answer:",10777,10777,True
+"Question: What is 5686 plus 4006?
+Answer:",9692,9692,True
+"Question: What is 7755 plus 6091?
+Answer:",13846,13846,True
+"Question: What is 9689 plus 7456?
+Answer:",17145,17145,True
+"Question: What is 4127 plus 6160?
+Answer:",10287,10287,True
+"Question: What is 9856 plus 4545?
+Answer:",14401,14401,True
+"Question: What is 7000 plus 1820?
+Answer:",8820,8820,True
+"Question: What is 6846 plus 2885?
+Answer:",9731,9731,True
+"Question: What is 924 plus 8248?
+Answer:",9172,9172,True
+"Question: What is 7800 plus 3486?
+Answer:",11286,11286,True
+"Question: What is 3096 plus 7625?
+Answer:",10721,10721,True
+"Question: What is 5262 plus 8574?
+Answer:",13836,13836,True
+"Question: What is 9720 plus 4131?
+Answer:",13851,13851,True
+"Question: What is 8717 plus 6329?
+Answer:",15046,15046,True

@@ -1,0 +1,401 @@
+,problem,expected_answer,gpt4_answer,is_correct
+0,"Question: What is (nine + eight) * two?
+Answer:",34,34,True
+1,"Question: What is (four - seven) - three?
+Answer:",-6,-6,True
+2,"Question: What is (one - five) - six?
+Answer:",-10,-10,True
+3,"Question: What is (one - nine) * five?
+Answer:",-40,-40,True
+4,"Question: What is (four * four) * one?
+Answer:",16,16,True
+5,"Question: What is (eight + three) * five?
+Answer:",55,55,True
+6,"Question: What is (seven + five) - six?
+Answer:",6,6,True
+7,"Question: What is (two - eight) - four?
+Answer:",-10,-10,True
+8,"Question: What is (two * four) * six?
+Answer:",48,48,True
+9,"Question: What is (three - four) - one?
+Answer:",-2,-2,True
+10,"Question: What is (three + eight) * eight?
+Answer:",88,88,True
+11,"Question: What is (five - nine) * three?
+Answer:",-12,-12,True
+12,"Question: What is (three * five) + seven?
+Answer:",22,22,True
+13,"Question: What is (five + four) * seven?
+Answer:",63,63,True
+14,"Question: What is (two + five) + three?
+Answer:",10,10,True
+15,"Question: What is (seven * five) - four?
+Answer:",31,31,True
+16,"Question: What is (five - one) * six?
+Answer:",24,24,True
+17,"Question: What is (one * five) * seven?
+Answer:",35,35,True
+18,"Question: What is (five - one) * seven?
+Answer:",28,28,True
+19,"Question: What is (five + one) + one?
+Answer:",7,7,True
+20,"Question: What is (four * nine) + two?
+Answer:",38,38,True
+21,"Question: What is (two - six) * two?
+Answer:",-8,-8,True
+22,"Question: What is (two + five) - one?
+Answer:",6,6,True
+23,"Question: What is (nine + five) * four?
+Answer:",56,56,True
+24,"Question: What is (two - three) - two?
+Answer:",-3,-3,True
+25,"Question: What is (one - three) + nine?
+Answer:",7,7,True
+26,"Question: What is (eight * two) + eight?
+Answer:",24,24,True
+27,"Question: What is (one + five) * three?
+Answer:",18,18,True
+28,"Question: What is (six - four) + five?
+Answer:",7,7,True
+29,"Question: What is (five - four) - nine?
+Answer:",-8,-8,True
+30,"Question: What is (two + four) - one?
+Answer:",5,5,True
+31,"Question: What is (nine - four) + nine?
+Answer:",14,14,True
+32,"Question: What is (one - two) * eight?
+Answer:",-8,-8,True
+33,"Question: What is (one * eight) - nine?
+Answer:",-1,7,False
+34,"Question: What is (four * seven) + two?
+Answer:",30,30,True
+35,"Question: What is (four + eight) - nine?
+Answer:",3,3,True
+36,"Question: What is (four + one) + seven?
+Answer:",12,12,True
+37,"Question: What is (three - seven) + six?
+Answer:",2,2,True
+38,"Question: What is (five - nine) * eight?
+Answer:",-32,-32,True
+39,"Question: What is (nine + nine) - two?
+Answer:",16,16,True
+40,"Question: What is (one - nine) - two?
+Answer:",-10,-10,True
+41,"Question: What is (seven - four) - one?
+Answer:",2,2,True
+42,"Question: What is (three * five) + eight?
+Answer:",23,23,True
+43,"Question: What is (one - five) * four?
+Answer:",-16,-16,True
+44,"Question: What is (two * six) - seven?
+Answer:",5,5,True
+45,"Question: What is (one * five) - eight?
+Answer:",-3,-3,True
+46,"Question: What is (six * five) - two?
+Answer:",28,28,True
+47,"Question: What is (three * four) - eight?
+Answer:",4,4,True
+48,"Question: What is (eight + nine) + eight?
+Answer:",25,25,True
+49,"Question: What is (seven * seven) - two?
+Answer:",47,47,True
+50,"Question: What is (six - five) + seven?
+Answer:",8,8,True
+51,"Question: What is (five - six) * four?
+Answer:",-4,-4,True
+52,"Question: What is (two * seven) - seven?
+Answer:",7,7,True
+53,"Question: What is (one * one) + six?
+Answer:",7,7,True
+54,"Question: What is (six + six) + one?
+Answer:",13,13,True
+55,"Question: What is (seven + five) + five?
+Answer:",17,17,True
+56,"Question: What is (three + seven) - six?
+Answer:",4,4,True
+57,"Question: What is (five + three) * four?
+Answer:",32,32,True
+58,"Question: What is (eight * nine) + eight?
+Answer:",80,80,True
+59,"Question: What is (five * five) * two?
+Answer:",50,50,True
+60,"Question: What is (two * seven) + two?
+Answer:",16,16,True
+61,"Question: What is (eight * three) + four?
+Answer:",28,28,True
+62,"Question: What is (six + three) - five?
+Answer:",4,4,True
+63,"Question: What is (three * two) + one?
+Answer:",7,7,True
+64,"Question: What is (five + eight) + seven?
+Answer:",20,20,True
+65,"Question: What is (eight * eight) - one?
+Answer:",63,63,True
+66,"Question: What is (seven + five) + three?
+Answer:",15,15,True
+67,"Question: What is (seven * eight) - one?
+Answer:",55,55,True
+68,"Question: What is (one + six) - nine?
+Answer:",-2,-2,True
+69,"Question: What is (five - one) - nine?
+Answer:",-5,-5,True
+70,"Question: What is (six - five) * three?
+Answer:",3,3,True
+71,"Question: What is (three * eight) * two?
+Answer:",48,48,True
+72,"Question: What is (eight * seven) * one?
+Answer:",56,56,True
+73,"Question: What is (four + one) * six?
+Answer:",30,30,True
+74,"Question: What is (eight - nine) + eight?
+Answer:",7,7,True
+75,"Question: What is (seven + nine) + five?
+Answer:",21,21,True
+76,"Question: What is (seven * eight) + four?
+Answer:",60,60,True
+77,"Question: What is (seven - six) * seven?
+Answer:",7,7,True
+78,"Question: What is (six * seven) - seven?
+Answer:",35,35,True
+79,"Question: What is (seven - seven) + three?
+Answer:",3,3,True
+80,"Question: What is (four * six) - nine?
+Answer:",15,15,True
+81,"Question: What is (two - seven) * nine?
+Answer:",-45,-45,True
+82,"Question: What is (three + eight) * three?
+Answer:",33,33,True
+83,"Question: What is (three + four) * eight?
+Answer:",56,56,True
+84,"Question: What is (four + nine) * seven?
+Answer:",91,91,True
+85,"Question: What is (two + three) * five?
+Answer:",25,25,True
+86,"Question: What is (one * four) - two?
+Answer:",2,2,True
+87,"Question: What is (four - four) - six?
+Answer:",-6,-6,True
+88,"Question: What is (four + seven) + three?
+Answer:",14,14,True
+89,"Question: What is (nine + five) * eight?
+Answer:",112,112,True
+90,"Question: What is (three - six) * seven?
+Answer:",-21,-21,True
+91,"Question: What is (eight - nine) * three?
+Answer:",-3,-3,True
+92,"Question: What is (seven - nine) + one?
+Answer:",-1,-1,True
+93,"Question: What is (eight * seven) + two?
+Answer:",58,58,True
+94,"Question: What is (six * nine) - one?
+Answer:",53,53,True
+95,"Question: What is (two - six) - seven?
+Answer:",-11,-11,True
+96,"Question: What is (one * five) * six?
+Answer:",30,30,True
+97,"Question: What is (seven - three) - three?
+Answer:",1,1,True
+98,"Question: What is (eight - one) + eight?
+Answer:",15,15,True
+99,"Question: What is (three - two) + six?
+Answer:",7,7,True
+100,"Question: What is (six - three) - two?
+Answer:",1,1,True
+101,"Question: What is (eight - two) + two?
+Answer:",8,8,True
+102,"Question: What is (seven + two) - four?
+Answer:",5,5,True
+103,"Question: What is (five * one) + six?
+Answer:",11,11,True
+104,"Question: What is (five * four) + five?
+Answer:",25,25,True
+105,"Question: What is (two - one) - one?
+Answer:",0,0,True
+106,"Question: What is (two * seven) + five?
+Answer:",19,19,True
+107,"Question: What is (five * two) - eight?
+Answer:",2,2,True
+108,"Question: What is (two + six) * two?
+Answer:",16,16,True
+109,"Question: What is (one + nine) * four?
+Answer:",40,40,True
+110,"Question: What is (six - eight) - five?
+Answer:",-7,-7,True
+111,"Question: What is (nine * three) - two?
+Answer:",25,25,True
+112,"Question: What is (seven * one) - one?
+Answer:",6,6,True
+113,"Question: What is (eight * eight) * eight?
+Answer:",512,512,True
+114,"Question: What is (three - two) - five?
+Answer:",-4,-4,True
+115,"Question: What is (nine + nine) * two?
+Answer:",36,36,True
+116,"Question: What is (nine * two) + four?
+Answer:",22,22,True
+117,"Question: What is (three * seven) + four?
+Answer:",25,25,True
+118,"Question: What is (eight + four) * two?
+Answer:",24,24,True
+119,"Question: What is (five + eight) * six?
+Answer:",78,78,True
+120,"Question: What is (five * seven) - four?
+Answer:",31,31,True
+121,"Question: What is (two * nine) - one?
+Answer:",17,17,True
+122,"Question: What is (one * two) + nine?
+Answer:",11,11,True
+123,"Question: What is (four + two) + five?
+Answer:",11,11,True
+124,"Question: What is (four - six) * three?
+Answer:",-6,-6,True
+125,"Question: What is (one + seven) - one?
+Answer:",7,7,True
+126,"Question: What is (nine + two) + nine?
+Answer:",20,20,True
+127,"Question: What is (three - four) - nine?
+Answer:",-10,-10,True
+128,"Question: What is (four * one) * one?
+Answer:",4,4,True
+129,"Question: What is (three + three) + three?
+Answer:",9,9,True
+130,"Question: What is (nine + two) - seven?
+Answer:",4,4,True
+131,"Question: What is (seven - three) * six?
+Answer:",24,24,True
+132,"Question: What is (eight + eight) * five?
+Answer:",80,80,True
+133,"Question: What is (five * seven) + five?
+Answer:",40,40,True
+134,"Question: What is (five - three) * five?
+Answer:",10,10,True
+135,"Question: What is (five - eight) * four?
+Answer:",-12,-12,True
+136,"Question: What is (three + five) * six?
+Answer:",48,48,True
+137,"Question: What is (six * nine) + two?
+Answer:",56,56,True
+138,"Question: What is (two + seven) + five?
+Answer:",14,14,True
+139,"Question: What is (seven + four) + seven?
+Answer:",18,18,True
+140,"Question: What is (eight + nine) - five?
+Answer:",12,12,True
+141,"Question: What is (eight + two) + one?
+Answer:",11,11,True
+142,"Question: What is (three * nine) * eight?
+Answer:",216,216,True
+143,"Question: What is (seven + one) + four?
+Answer:",12,12,True
+144,"Question: What is (five - nine) + one?
+Answer:",-3,-3,True
+145,"Question: What is (two - six) * five?
+Answer:",-20,-20,True
+146,"Question: What is (five - seven) - one?
+Answer:",-3,-3,True
+147,"Question: What is (one * six) * three?
+Answer:",18,18,True
+148,"Question: What is (nine + eight) - three?
+Answer:",14,14,True
+149,"Question: What is (six - four) * eight?
+Answer:",16,16,True
+150,"Question: What is (four + four) + six?
+Answer:",14,14,True
+151,"Question: What is (five - one) * five?
+Answer:",20,20,True
+152,"Question: What is (four - nine) * two?
+Answer:",-10,-10,True
+153,"Question: What is (five * six) - three?
+Answer:",27,27,True
+154,"Question: What is (five - two) * one?
+Answer:",3,3,True
+155,"Question: What is (nine - seven) - four?
+Answer:",-2,-2,True
+156,"Question: What is (one * six) * eight?
+Answer:",48,48,True
+157,"Question: What is (three + two) * four?
+Answer:",20,20,True
+158,"Question: What is (four * five) + five?
+Answer:",25,25,True
+159,"Question: What is (two * eight) * two?
+Answer:",32,32,True
+160,"Question: What is (five * five) + eight?
+Answer:",33,33,True
+161,"Question: What is (four + four) * one?
+Answer:",8,8,True
+162,"Question: What is (three * nine) * three?
+Answer:",81,81,True
+163,"Question: What is (six - two) - five?
+Answer:",-1,-1,True
+164,"Question: What is (two - two) + nine?
+Answer:",9,9,True
+165,"Question: What is (three + five) - two?
+Answer:",6,6,True
+166,"Question: What is (seven * six) * nine?
+Answer:",378,378,True
+167,"Question: What is (four * two) - three?
+Answer:",5,5,True
+168,"Question: What is (one - three) + seven?
+Answer:",5,5,True
+169,"Question: What is (seven + three) * seven?
+Answer:",70,70,True
+170,"Question: What is (six + nine) - four?
+Answer:",11,11,True
+171,"Question: What is (three - two) * nine?
+Answer:",9,9,True
+172,"Question: What is (nine * nine) * nine?
+Answer:",729,729,True
+173,"Question: What is (two * five) - nine?
+Answer:",1,1,True
+174,"Question: What is (six * three) * one?
+Answer:",18,18,True
+175,"Question: What is (nine + one) - eight?
+Answer:",2,2,True
+176,"Question: What is (six * four) * six?
+Answer:",144,144,True
+177,"Question: What is (four * seven) + three?
+Answer:",31,31,True
+178,"Question: What is (four - five) - eight?
+Answer:",-9,-9,True
+179,"Question: What is (four * five) + four?
+Answer:",24,24,True
+180,"Question: What is (seven * five) * eight?
+Answer:",280,280,True
+181,"Question: What is (one * five) + nine?
+Answer:",14,14,True
+182,"Question: What is (nine - seven) * four?
+Answer:",8,8,True
+183,"Question: What is (nine * two) * four?
+Answer:",72,72,True
+184,"Question: What is (seven - one) * two?
+Answer:",12,12,True
+185,"Question: What is (eight + four) - five?
+Answer:",7,7,True
+186,"Question: What is (eight + seven) * two?
+Answer:",30,30,True
+187,"Question: What is (three * six) + two?
+Answer:",20,20,True
+188,"Question: What is (four * three) + four?
+Answer:",16,16,True
+189,"Question: What is (three - four) - six?
+Answer:",-7,-7,True
+190,"Question: What is (nine - one) - five?
+Answer:",3,3,True
+191,"Question: What is (five - five) * one?
+Answer:",0,0,True
+192,"Question: What is (eight - one) + four?
+Answer:",11,11,True
+193,"Question: What is (five + three) * five?
+Answer:",40,40,True
+194,"Question: What is (two - one) + six?
+Answer:",7,7,True
+195,"Question: What is (four - nine) * five?
+Answer:",-25,-25,True
+196,"Question: What is (four + seven) - four?
+Answer:",7,7,True
+197,"Question: What is (five - four) * six?
+Answer:",6,6,True
+198,"Question: What is (eight - nine) - three?
+Answer:",-4,-4,True
+199,"Question: What is (one + seven) * six?
+Answer:",48,48,True

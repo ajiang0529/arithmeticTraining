@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is 556 plus 497?
+Answer:",1053,1053,True
+"Question: What is 108 plus 736?
+Answer:",844,844,True
+"Question: What is 509 plus 575?
+Answer:",1084,1084,True
+"Question: What is 339 plus 730?
+Answer:",1069,1069,True
+"Question: What is 215 plus 270?
+Answer:",485,485,True
+"Question: What is 526 plus 950?
+Answer:",1476,1476,True
+"Question: What is 668 plus 670?
+Answer:",1338,1338,True
+"Question: What is 245 plus 485?
+Answer:",730,730,True
+"Question: What is 242 plus 362?
+Answer:",604,604,True
+"Question: What is 905 plus 338?
+Answer:",1243,1243,True
+"Question: What is 705 plus 404?
+Answer:",1109,1109,True
+"Question: What is 496 plus 103?
+Answer:",599,599,True
+"Question: What is 1 plus 657?
+Answer:",658,658,True
+"Question: What is 895 plus 427?
+Answer:",1322,1322,True
+"Question: What is 402 plus 348?
+Answer:",750,750,True
+"Question: What is 395 plus 981?
+Answer:",1376,1376,True
+"Question: What is 314 plus 26?
+Answer:",340,340,True
+"Question: What is 772 plus 613?
+Answer:",1385,1385,True
+"Question: What is 290 plus 331?
+Answer:",621,621,True
+"Question: What is 893 plus 821?
+Answer:",1714,1714,True
+"Question: What is 149 plus 503?
+Answer:",652,652,True
+"Question: What is 312 plus 902?
+Answer:",1214,1214,True
+"Question: What is 824 plus 338?
+Answer:",1162,1162,True
+"Question: What is 263 plus 127?
+Answer:",390,390,True
+"Question: What is 217 plus 137?
+Answer:",354,354,True
+"Question: What is 884 plus 615?
+Answer:",1499,1499,True
+"Question: What is 986 plus 767?
+Answer:",1753,1753,True
+"Question: What is 988 plus 122?
+Answer:",1110,1110,True
+"Question: What is 131 plus 606?
+Answer:",737,737,True
+"Question: What is 60 plus 382?
+Answer:",442,442,True
+"Question: What is 790 plus 298?
+Answer:",1088,1088,True
+"Question: What is 470 plus 788?
+Answer:",1258,1258,True
+"Question: What is 973 plus 811?
+Answer:",1784,1784,True
+"Question: What is 423 plus 239?
+Answer:",662,662,True
+"Question: What is 774 plus 337?
+Answer:",1111,1111,True
+"Question: What is 307 plus 647?
+Answer:",954,954,True
+"Question: What is 890 plus 973?
+Answer:",1863,1863,True
+"Question: What is 64 plus 564?
+Answer:",628,628,True
+"Question: What is 437 plus 273?
+Answer:",710,710,True
+"Question: What is 735 plus 228?
+Answer:",963,963,True
+"Question: What is 141 plus 317?
+Answer:",458,458,True
+"Question: What is 51 plus 105?
+Answer:",156,156,True
+"Question: What is 20 plus 331?
+Answer:",351,351,True
+"Question: What is 876 plus 791?
+Answer:",1667,1667,True
+"Question: What is 181 plus 7?
+Answer:",188,188,True
+"Question: What is 611 plus 292?
+Answer:",903,903,True
+"Question: What is 716 plus 840?
+Answer:",1556,1556,True
+"Question: What is 481 plus 532?
+Answer:",1013,1013,True
+"Question: What is 492 plus 766?
+Answer:",1258,1258,True
+"Question: What is 362 plus 246?
+Answer:",608,608,True
+"Question: What is 312 plus 310?
+Answer:",622,622,True
+"Question: What is 56 plus 472?
+Answer:",528,528,True
+"Question: What is 607 plus 473?
+Answer:",1080,1080,True
+"Question: What is 986 plus 565?
+Answer:",1551,1551,True
+"Question: What is 135 plus 113?
+Answer:",248,248,True
+"Question: What is 745 plus 506?
+Answer:",1251,1251,True
+"Question: What is 509 plus 759?
+Answer:",1268,1268,True
+"Question: What is 943 plus 778?
+Answer:",1721,1721,True
+"Question: What is 176 plus 148?
+Answer:",324,324,True
+"Question: What is 213 plus 876?
+Answer:",1089,1089,True
+"Question: What is 672 plus 615?
+Answer:",1287,1287,True
+"Question: What is 344 plus 76?
+Answer:",420,420,True
+"Question: What is 705 plus 347?
+Answer:",1052,1052,True
+"Question: What is 882 plus 632?
+Answer:",1514,1514,True
+"Question: What is 646 plus 836?
+Answer:",1482,1482,True
+"Question: What is 905 plus 90?
+Answer:",995,995,True
+"Question: What is 392 plus 840?
+Answer:",1232,1232,True
+"Question: What is 356 plus 601?
+Answer:",957,957,True
+"Question: What is 641 plus 719?
+Answer:",1360,1360,True
+"Question: What is 957 plus 57?
+Answer:",1014,1014,True
+"Question: What is 222 plus 564?
+Answer:",786,786,True
+"Question: What is 944 plus 725?
+Answer:",1669,1669,True
+"Question: What is 862 plus 213?
+Answer:",1075,1075,True
+"Question: What is 733 plus 652?
+Answer:",1385,1385,True
+"Question: What is 273 plus 798?
+Answer:",1071,1071,True
+"Question: What is 80 plus 588?
+Answer:",668,668,True
+"Question: What is 234 plus 749?
+Answer:",983,983,True
+"Question: What is 554 plus 786?
+Answer:",1340,1340,True
+"Question: What is 600 plus 545?
+Answer:",1145,1145,True
+"Question: What is 147 plus 862?
+Answer:",1009,1009,True
+"Question: What is 276 plus 270?
+Answer:",546,546,True
+"Question: What is 816 plus 307?
+Answer:",1123,1123,True
+"Question: What is 502 plus 668?
+Answer:",1170,1170,True
+"Question: What is 613 plus 759?
+Answer:",1372,1372,True
+"Question: What is 884 plus 603?
+Answer:",1487,1487,True
+"Question: What is 335 plus 942?
+Answer:",1277,1277,True
+"Question: What is 704 plus 284?
+Answer:",988,988,True
+"Question: What is 226 plus 471?
+Answer:",697,697,True
+"Question: What is 176 plus 832?
+Answer:",1008,1008,True
+"Question: What is 664 plus 794?
+Answer:",1458,1458,True
+"Question: What is 159 plus 861?
+Answer:",1020,1020,True
+"Question: What is 387 plus 608?
+Answer:",995,995,True
+"Question: What is 928 plus 726?
+Answer:",1654,1654,True
+"Question: What is 603 plus 900?
+Answer:",1503,1503,True
+"Question: What is 607 plus 509?
+Answer:",1116,1116,True
+"Question: What is 615 plus 402?
+Answer:",1017,1017,True
+"Question: What is 723 plus 258?
+Answer:",981,981,True
+"Question: What is 170 plus 814?
+Answer:",984,984,True
+"Question: What is 847 plus 900?
+Answer:",1747,1747,True
+"Question: What is 818 plus 756?
+Answer:",1574,1574,True
+"Question: What is 839 plus 777?
+Answer:",1616,1616,True
+"Question: What is 906 plus 801?
+Answer:",1707,1707,True
+"Question: What is 214 plus 733?
+Answer:",947,947,True
+"Question: What is 700 plus 175?
+Answer:",875,875,True
+"Question: What is 949 plus 212?
+Answer:",1161,1161,True
+"Question: What is 189 plus 228?
+Answer:",417,417,True
+"Question: What is 138 plus 569?
+Answer:",707,707,True
+"Question: What is 738 plus 599?
+Answer:",1337,1337,True
+"Question: What is 439 plus 213?
+Answer:",652,652,True
+"Question: What is 596 plus 932?
+Answer:",1528,1528,True
+"Question: What is 695 plus 883?
+Answer:",1578,1578,True
+"Question: What is 399 plus 651?
+Answer:",1050,1050,True
+"Question: What is 781 plus 467?
+Answer:",1248,1248,True
+"Question: What is 74 plus 415?
+Answer:",489,489,True
+"Question: What is 482 plus 972?
+Answer:",1454,1454,True
+"Question: What is 101 plus 370?
+Answer:",471,471,True
+"Question: What is 723 plus 483?
+Answer:",1206,1206,True
+"Question: What is 10 plus 961?
+Answer:",971,971,True
+"Question: What is 264 plus 240?
+Answer:",504,504,True
+"Question: What is 929 plus 887?
+Answer:",1816,1816,True
+"Question: What is 885 plus 792?
+Answer:",1677,1677,True
+"Question: What is 260 plus 591?
+Answer:",851,851,True
+"Question: What is 642 plus 546?
+Answer:",1188,1188,True
+"Question: What is 477 plus 935?
+Answer:",1412,1412,True
+"Question: What is 289 plus 456?
+Answer:",745,745,True
+"Question: What is 935 plus 215?
+Answer:",1150,1150,True
+"Question: What is 759 plus 919?
+Answer:",1678,1678,True
+"Question: What is 657 plus 767?
+Answer:",1424,1424,True
+"Question: What is 653 plus 60?
+Answer:",713,713,True
+"Question: What is 985 plus 600?
+Answer:",1585,1585,True
+"Question: What is 690 plus 207?
+Answer:",897,897,True
+"Question: What is 392 plus 305?
+Answer:",697,697,True
+"Question: What is 456 plus 809?
+Answer:",1265,1265,True
+"Question: What is 462 plus 770?
+Answer:",1232,1232,True
+"Question: What is 590 plus 269?
+Answer:",859,859,True
+"Question: What is 518 plus 119?
+Answer:",637,637,True
+"Question: What is 711 plus 51?
+Answer:",762,762,True
+"Question: What is 391 plus 847?
+Answer:",1238,1238,True
+"Question: What is 670 plus 640?
+Answer:",1310,1310,True
+"Question: What is 405 plus 170?
+Answer:",575,575,True
+"Question: What is 767 plus 774?
+Answer:",1541,1541,True
+"Question: What is 509 plus 587?
+Answer:",1096,1096,True
+"Question: What is 851 plus 697?
+Answer:",1548,1548,True
+"Question: What is 465 plus 880?
+Answer:",1345,1345,True
+"Question: What is 833 plus 672?
+Answer:",1505,1505,True
+"Question: What is 692 plus 305?
+Answer:",997,997,True
+"Question: What is 5 plus 301?
+Answer:",306,306,True
+"Question: What is 374 plus 246?
+Answer:",620,620,True
+"Question: What is 404 plus 388?
+Answer:",792,792,True
+"Question: What is 927 plus 765?
+Answer:",1692,1692,True
+"Question: What is 396 plus 806?
+Answer:",1202,1202,True
+"Question: What is 886 plus 354?
+Answer:",1240,1240,True
+"Question: What is 963 plus 937?
+Answer:",1900,1900,True
+"Question: What is 830 plus 576?
+Answer:",1406,1406,True
+"Question: What is 720 plus 806?
+Answer:",1526,1526,True
+"Question: What is 693 plus 775?
+Answer:",1468,1468,True
+"Question: What is 920 plus 940?
+Answer:",1860,1860,True
+"Question: What is 221 plus 990?
+Answer:",1211,1211,True
+"Question: What is 961 plus 161?
+Answer:",1122,1122,True
+"Question: What is 880 plus 143?
+Answer:",1023,1023,True
+"Question: What is 784 plus 334?
+Answer:",1118,1118,True
+"Question: What is 600 plus 762?
+Answer:",1362,1362,True
+"Question: What is 153 plus 598?
+Answer:",751,751,True
+"Question: What is 610 plus 668?
+Answer:",1278,1278,True
+"Question: What is 584 plus 86?
+Answer:",670,670,True
+"Question: What is 498 plus 480?
+Answer:",978,978,True
+"Question: What is 577 plus 480?
+Answer:",1057,1057,True
+"Question: What is 643 plus 416?
+Answer:",1059,1059,True
+"Question: What is 451 plus 693?
+Answer:",1144,1144,True
+"Question: What is 733 plus 464?
+Answer:",1197,1197,True
+"Question: What is 664 plus 778?
+Answer:",1442,1442,True
+"Question: What is 530 plus 616?
+Answer:",1146,1146,True
+"Question: What is 981 plus 821?
+Answer:",1802,1802,True
+"Question: What is 41 plus 413?
+Answer:",454,454,True
+"Question: What is 697 plus 33?
+Answer:",730,730,True
+"Question: What is 970 plus 300?
+Answer:",1270,1270,True
+"Question: What is 361 plus 675?
+Answer:",1036,1036,True
+"Question: What is 598 plus 881?
+Answer:",1479,1479,True
+"Question: What is 535 plus 12?
+Answer:",547,547,True
+"Question: What is 893 plus 546?
+Answer:",1439,1439,True
+"Question: What is 60 plus 626?
+Answer:",686,686,True
+"Question: What is 710 plus 609?
+Answer:",1319,1319,True
+"Question: What is 285 plus 615?
+Answer:",900,900,True
+"Question: What is 639 plus 912?
+Answer:",1551,1551,True
+"Question: What is 322 plus 242?
+Answer:",564,564,True
+"Question: What is 959 plus 645?
+Answer:",1604,1604,True
+"Question: What is 772 plus 552?
+Answer:",1324,1324,True
+"Question: What is 632 plus 665?
+Answer:",1297,1297,True
+"Question: What is 715 plus 385?
+Answer:",1100,1100,True
+"Question: What is 402 plus 316?
+Answer:",718,718,True
+"Question: What is 77 plus 3?
+Answer:",80,80,True
+"Question: What is 831 plus 822?
+Answer:",1653,1653,True
+"Question: What is 596 plus 833?
+Answer:",1429,1429,True
+"Question: What is 7 plus 398?
+Answer:",405,405,True
+"Question: What is 662 plus 18?
+Answer:",680,680,True
+"Question: What is 952 plus 27?
+Answer:",979,979,True
+"Question: What is 625 plus 321?
+Answer:",946,946,True
+"Question: What is 316 plus 823?
+Answer:",1139,1139,True
+"Question: What is 279 plus 480?
+Answer:",759,759,True
+"Question: What is 826 plus 534?
+Answer:",1360,1360,True

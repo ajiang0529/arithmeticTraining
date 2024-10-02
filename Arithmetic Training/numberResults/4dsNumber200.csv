@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is 6209 minus 3365?
+Answer:",2844,2844,True
+"Question: What is 8426 minus 6136?
+Answer:",2290,2290,True
+"Question: What is 8503 minus 8820?
+Answer:",-317,-317,True
+"Question: What is 7306 minus 4998?
+Answer:",2308,2308,True
+"Question: What is 5508 minus 4728?
+Answer:",780,780,True
+"Question: What is 2187 minus 933?
+Answer:",1254,1254,True
+"Question: What is 8205 minus 42?
+Answer:",8163,8163,True
+"Question: What is 3600 minus 3540?
+Answer:",60,60,True
+"Question: What is 2998 minus 3065?
+Answer:",-67,-67,True
+"Question: What is 9411 minus 8055?
+Answer:",1356,1356,True
+"Question: What is 8189 minus 1465?
+Answer:",6724,6724,True
+"Question: What is 7810 minus 6974?
+Answer:",836,836,True
+"Question: What is 1579 minus 9598?
+Answer:",-8019,-8019,True
+"Question: What is 4509 minus 9801?
+Answer:",-5292,-5292,True
+"Question: What is 7018 minus 6781?
+Answer:",237,237,True
+"Question: What is 6147 minus 565?
+Answer:",5582,5582,True
+"Question: What is 3163 minus 6700?
+Answer:",-3537,-3537,True
+"Question: What is 4458 minus 6242?
+Answer:",-1784,-1784,True
+"Question: What is 4482 minus 893?
+Answer:",3589,3589,True
+"Question: What is 6253 minus 8369?
+Answer:",-2116,-2116,True
+"Question: What is 8438 minus 9307?
+Answer:",-869,-869,True
+"Question: What is 4258 minus 1526?
+Answer:",2732,2732,True
+"Question: What is 8656 minus 3846?
+Answer:",4810,4810,True
+"Question: What is 5842 minus 4425?
+Answer:",1417,1417,True
+"Question: What is 5142 minus 1459?
+Answer:",3683,3683,True
+"Question: What is 9298 minus 3387?
+Answer:",5911,5911,True
+"Question: What is 1842 minus 7793?
+Answer:",-5951,-5951,True
+"Question: What is 5641 minus 9587?
+Answer:",-3946,-3946,True
+"Question: What is 571 minus 713?
+Answer:",-142,-142,True
+"Question: What is 8659 minus 863?
+Answer:",7796,7796,True
+"Question: What is 7278 minus 6128?
+Answer:",1150,1150,True
+"Question: What is 9448 minus 8948?
+Answer:",500,500,True
+"Question: What is 2774 minus 9427?
+Answer:",-6653,-6653,True
+"Question: What is 7750 minus 4252?
+Answer:",3498,3498,True
+"Question: What is 9336 minus 2757?
+Answer:",6579,6579,True
+"Question: What is 1009 minus 7740?
+Answer:",-6731,-6731,True
+"Question: What is 6695 minus 2778?
+Answer:",3917,3917,True
+"Question: What is 4939 minus 2470?
+Answer:",2469,2469,True
+"Question: What is 477 minus 2629?
+Answer:",-2152,-2152,True
+"Question: What is 9909 minus 7680?
+Answer:",2229,2229,True
+"Question: What is 3349 minus 2240?
+Answer:",1109,1109,True
+"Question: What is 5089 minus 1751?
+Answer:",3338,3338,True
+"Question: What is 3909 minus 8906?
+Answer:",-4997,-4997,True
+"Question: What is 7302 minus 3720?
+Answer:",3582,3582,True
+"Question: What is 5084 minus 5064?
+Answer:",20,20,True
+"Question: What is 7311 minus 1484?
+Answer:",5827,5827,True
+"Question: What is 8747 minus 8089?
+Answer:",658,658,True
+"Question: What is 1793 minus 3064?
+Answer:",-1271,-1271,True
+"Question: What is 193 minus 1045?
+Answer:",-852,-852,True
+"Question: What is 6930 minus 1602?
+Answer:",5328,5328,True
+"Question: What is 5408 minus 6801?
+Answer:",-1393,-1393,True
+"Question: What is 7280 minus 3151?
+Answer:",4129,4129,True
+"Question: What is 8359 minus 3964?
+Answer:",4395,4395,True
+"Question: What is 7430 minus 7566?
+Answer:",-136,-136,True
+"Question: What is 117 minus 7559?
+Answer:",-7442,-7442,True
+"Question: What is 6470 minus 2356?
+Answer:",4114,4114,True
+"Question: What is 1733 minus 7283?
+Answer:",-5550,-5550,True
+"Question: What is 237 minus 9674?
+Answer:",-9437,-9437,True
+"Question: What is 2045 minus 6478?
+Answer:",-4433,-4433,True
+"Question: What is 5062 minus 3679?
+Answer:",1383,1383,True
+"Question: What is 6136 minus 5083?
+Answer:",1053,1053,True
+"Question: What is 8279 minus 879?
+Answer:",7400,7400,True
+"Question: What is 4599 minus 982?
+Answer:",3617,3617,True
+"Question: What is 5501 minus 5079?
+Answer:",422,422,True
+"Question: What is 3428 minus 4482?
+Answer:",-1054,-1054,True
+"Question: What is 6288 minus 6705?
+Answer:",-417,-417,True
+"Question: What is 9174 minus 7178?
+Answer:",1996,1996,True
+"Question: What is 3649 minus 1700?
+Answer:",1949,1949,True
+"Question: What is 6700 minus 9285?
+Answer:",-2585,-2585,True
+"Question: What is 1263 minus 3155?
+Answer:",-1892,-1892,True
+"Question: What is 2592 minus 426?
+Answer:",2166,2166,True
+"Question: What is 5261 minus 6601?
+Answer:",-1340,-1340,True
+"Question: What is 9903 minus 3692?
+Answer:",6211,6211,True
+"Question: What is 5138 minus 385?
+Answer:",4753,4753,True
+"Question: What is 4268 minus 6520?
+Answer:",-2252,-2252,True
+"Question: What is 3288 minus 9086?
+Answer:",-5798,-6798,False
+"Question: What is 9377 minus 1354?
+Answer:",8023,8023,True
+"Question: What is 1407 minus 4009?
+Answer:",-2602,-2602,True
+"Question: What is 3348 minus 6439?
+Answer:",-3091,-3091,True
+"Question: What is 6411 minus 5548?
+Answer:",863,863,True
+"Question: What is 9293 minus 9598?
+Answer:",-305,-305,True
+"Question: What is 7008 minus 7329?
+Answer:",-321,-321,True
+"Question: What is 3189 minus 6545?
+Answer:",-3356,-3356,True
+"Question: What is 35 minus 1334?
+Answer:",-1299,-1299,True
+"Question: What is 2961 minus 1021?
+Answer:",1940,1940,True
+"Question: What is 1591 minus 8350?
+Answer:",-6759,-6759,True
+"Question: What is 3630 minus 7884?
+Answer:",-4254,-4254,True
+"Question: What is 8220 minus 9438?
+Answer:",-1218,-1218,True
+"Question: What is 5240 minus 4370?
+Answer:",870,870,True
+"Question: What is 3434 minus 7422?
+Answer:",-3988,-3988,True
+"Question: What is 5968 minus 3122?
+Answer:",2846,2846,True
+"Question: What is 5552 minus 7000?
+Answer:",-1448,-1448,True
+"Question: What is 1976 minus 5692?
+Answer:",-3716,-3716,True
+"Question: What is 4203 minus 3932?
+Answer:",271,271,True
+"Question: What is 991 minus 9008?
+Answer:",-8017,-7017,False
+"Question: What is 5458 minus 9303?
+Answer:",-3845,-3845,True
+"Question: What is 231 minus 2631?
+Answer:",-2400,-2400,True
+"Question: What is 465 minus 751?
+Answer:",-286,-286,True
+"Question: What is 5710 minus 1606?
+Answer:",4104,4104,True
+"Question: What is 2415 minus 2352?
+Answer:",63,63,True
+"Question: What is 4493 minus 2670?
+Answer:",1823,1823,True
+"Question: What is 7836 minus 5890?
+Answer:",1946,1946,True
+"Question: What is 4355 minus 5497?
+Answer:",-1142,-1142,True
+"Question: What is 3828 minus 3445?
+Answer:",383,383,True
+"Question: What is 8791 minus 8884?
+Answer:",-93,-93,True
+"Question: What is 2040 minus 2609?
+Answer:",-569,-569,True
+"Question: What is 7722 minus 5743?
+Answer:",1979,1979,True
+"Question: What is 1731 minus 532?
+Answer:",1199,1199,True
+"Question: What is 7706 minus 3982?
+Answer:",3724,3724,True
+"Question: What is 1056 minus 2123?
+Answer:",-1067,-1067,True
+"Question: What is 6925 minus 220?
+Answer:",6705,6705,True
+"Question: What is 5208 minus 2533?
+Answer:",2675,2675,True
+"Question: What is 6516 minus 3659?
+Answer:",2857,2857,True
+"Question: What is 1683 minus 909?
+Answer:",774,774,True
+"Question: What is 513 minus 8471?
+Answer:",-7958,-7958,True
+"Question: What is 9668 minus 7052?
+Answer:",2616,2616,True
+"Question: What is 2590 minus 550?
+Answer:",2040,2040,True
+"Question: What is 8736 minus 1200?
+Answer:",7536,7536,True
+"Question: What is 2841 minus 4386?
+Answer:",-1545,-1545,True
+"Question: What is 5579 minus 3378?
+Answer:",2201,2201,True
+"Question: What is 1534 minus 7820?
+Answer:",-6286,-6286,True
+"Question: What is 1553 minus 6945?
+Answer:",-5392,-5392,True
+"Question: What is 7923 minus 9478?
+Answer:",-1555,-1555,True
+"Question: What is 4011 minus 2035?
+Answer:",1976,1976,True
+"Question: What is 2674 minus 3463?
+Answer:",-789,-789,True
+"Question: What is 3213 minus 2986?
+Answer:",227,227,True
+"Question: What is 8677 minus 7356?
+Answer:",1321,1321,True
+"Question: What is 1969 minus 4672?
+Answer:",-2703,-2703,True
+"Question: What is 9959 minus 1975?
+Answer:",7984,7984,True
+"Question: What is 4728 minus 7345?
+Answer:",-2617,-2617,True
+"Question: What is 9478 minus 3129?
+Answer:",6349,6349,True
+"Question: What is 8178 minus 5949?
+Answer:",2229,2229,True
+"Question: What is 4453 minus 4405?
+Answer:",48,48,True
+"Question: What is 8541 minus 102?
+Answer:",8439,8439,True
+"Question: What is 3478 minus 9?
+Answer:",3469,3469,True
+"Question: What is 9146 minus 1782?
+Answer:",7364,7364,True
+"Question: What is 286 minus 4014?
+Answer:",-3728,-3728,True
+"Question: What is 7961 minus 3979?
+Answer:",3982,3982,True
+"Question: What is 2462 minus 4678?
+Answer:",-2216,-2216,True
+"Question: What is 1652 minus 4876?
+Answer:",-3224,-3224,True
+"Question: What is 6132 minus 547?
+Answer:",5585,5585,True
+"Question: What is 14 minus 4368?
+Answer:",-4354,-4354,True
+"Question: What is 483 minus 7601?
+Answer:",-7118,-7118,True
+"Question: What is 7774 minus 9985?
+Answer:",-2211,-2211,True
+"Question: What is 6425 minus 2251?
+Answer:",4174,4174,True
+"Question: What is 9952 minus 8978?
+Answer:",974,974,True
+"Question: What is 3348 minus 812?
+Answer:",2536,2536,True
+"Question: What is 8031 minus 9190?
+Answer:",-1159,-1159,True
+"Question: What is 6025 minus 6991?
+Answer:",-966,-966,True
+"Question: What is 278 minus 9970?
+Answer:",-9692,-9692,True
+"Question: What is 9647 minus 477?
+Answer:",9170,9170,True
+"Question: What is 3879 minus 7482?
+Answer:",-3603,-3603,True
+"Question: What is 7162 minus 8228?
+Answer:",-1066,-1066,True
+"Question: What is 3046 minus 1824?
+Answer:",1222,1222,True
+"Question: What is 3143 minus 4294?
+Answer:",-1151,-1151,True
+"Question: What is 1655 minus 1364?
+Answer:",291,291,True
+"Question: What is 4237 minus 4675?
+Answer:",-438,-438,True
+"Question: What is 6390 minus 9120?
+Answer:",-2730,-2730,True
+"Question: What is 1666 minus 3567?
+Answer:",-1901,-1901,True
+"Question: What is 1274 minus 9662?
+Answer:",-8388,-8388,True
+"Question: What is 9129 minus 3435?
+Answer:",5694,5694,True
+"Question: What is 5637 minus 8584?
+Answer:",-2947,-2947,True
+"Question: What is 5779 minus 3113?
+Answer:",2666,2666,True
+"Question: What is 3709 minus 8715?
+Answer:",-5006,-5006,True
+"Question: What is 7565 minus 2420?
+Answer:",5145,5145,True
+"Question: What is 1236 minus 6854?
+Answer:",-5618,-5618,True
+"Question: What is 9029 minus 8640?
+Answer:",389,389,True
+"Question: What is 4024 minus 8964?
+Answer:",-4940,-4940,True
+"Question: What is 1857 minus 7087?
+Answer:",-5230,-5230,True
+"Question: What is 2397 minus 3497?
+Answer:",-1100,-1100,True
+"Question: What is 7787 minus 41?
+Answer:",7746,7746,True
+"Question: What is 9645 minus 7536?
+Answer:",2109,2109,True
+"Question: What is 6201 minus 720?
+Answer:",5481,5481,True
+"Question: What is 9701 minus 4700?
+Answer:",5001,5001,True
+"Question: What is 4523 minus 2904?
+Answer:",1619,1619,True
+"Question: What is 3308 minus 9575?
+Answer:",-6267,-6267,True
+"Question: What is 836 minus 8260?
+Answer:",-7424,-7424,True
+"Question: What is 5671 minus 3276?
+Answer:",2395,2395,True
+"Question: What is 4814 minus 2575?
+Answer:",2239,2239,True
+"Question: What is 775 minus 4555?
+Answer:",-3780,-3780,True
+"Question: What is 4594 minus 1688?
+Answer:",2906,2906,True
+"Question: What is 1547 minus 2589?
+Answer:",-1042,-1042,True
+"Question: What is 9695 minus 941?
+Answer:",8754,8754,True
+"Question: What is 696 minus 2088?
+Answer:",-1392,-1392,True
+"Question: What is 6883 minus 6443?
+Answer:",440,440,True
+"Question: What is 1302 minus 3504?
+Answer:",-2202,-2202,True
+"Question: What is 5757 minus 8703?
+Answer:",-2946,-2946,True
+"Question: What is 8378 minus 70?
+Answer:",8308,8308,True
+"Question: What is 1171 minus 4344?
+Answer:",-3173,-3173,True
+"Question: What is 3725 minus 6410?
+Answer:",-2685,-2685,True
+"Question: What is 764 minus 6936?
+Answer:",-6172,-6172,True
+"Question: What is 6467 minus 113?
+Answer:",6354,6354,True
+"Question: What is 5716 minus 35?
+Answer:",5681,5681,True
+"Question: What is 3847 minus 8283?
+Answer:",-4436,-4436,True
+"Question: What is 5243 minus 2487?
+Answer:",2756,2756,True
+"Question: What is 1996 minus 9690?
+Answer:",-7694,-7694,True
+"Question: What is 7759 minus 9130?
+Answer:",-1371,-1371,True
+"Question: What is 4770 minus 705?
+Answer:",4065,4065,True
+"Question: What is 1072 minus 1163?
+Answer:",-91,-91,True
+"Question: What is 6023 minus 6916?
+Answer:",-893,-893,True

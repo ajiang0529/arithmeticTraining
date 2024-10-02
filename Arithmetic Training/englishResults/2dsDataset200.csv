@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is seventeen minus fourteen?
+Answer:",3,3,True
+"Question: What is twenty minus five?
+Answer:",15,15,True
+"Question: What is thirty-three minus eighty-eight?
+Answer:",-55,-55,True
+"Question: What is twenty-nine minus three?
+Answer:",26,26,True
+"Question: What is sixty-nine minus forty-nine?
+Answer:",20,20,True
+"Question: What is seven minus sixty-six?
+Answer:",-59,-59,True
+"Question: What is two minus one?
+Answer:",1,One,False
+"Question: What is eleven minus twenty-five?
+Answer:",-14,-14,True
+"Question: What is thirty-three minus seven?
+Answer:",26,26,True
+"Question: What is twenty-two minus ninety-one?
+Answer:",-69,-69,True
+"Question: What is thirty-seven minus nineteen?
+Answer:",18,18,True
+"Question: What is thirty-seven minus three?
+Answer:",34,34,True
+"Question: What is ninety-four minus thirty-seven?
+Answer:",57,57,True
+"Question: What is ninety-three minus nine?
+Answer:",84,84,True
+"Question: What is eighty-six minus forty-four?
+Answer:",42,42,True
+"Question: What is sixty-eight minus forty-six?
+Answer:",22,22,True
+"Question: What is forty-five minus fifty?
+Answer:",-5,-5,True
+"Question: What is five minus ninety-four?
+Answer:",-89,-89,True
+"Question: What is eighty-five minus sixty?
+Answer:",25,25,True
+"Question: What is fifty-five minus seventy-five?
+Answer:",-20,-20,True
+"Question: What is thirty-six minus thirty-one?
+Answer:",5,5,True
+"Question: What is forty-three minus twenty-two?
+Answer:",21,21,True
+"Question: What is eight minus twenty-one?
+Answer:",-13,-13,True
+"Question: What is fifty-seven minus eighty-nine?
+Answer:",-32,-32,True
+"Question: What is twelve minus five?
+Answer:",7,Seven,False
+"Question: What is seventy-seven minus fifty-two?
+Answer:",25,25,True
+"Question: What is fifty-six minus eighty?
+Answer:",-24,-24,True
+"Question: What is forty-eight minus eighty-one?
+Answer:",-33,-33,True
+"Question: What is twenty-two minus fifty-two?
+Answer:",-30,-30,True
+"Question: What is three minus sixteen?
+Answer:",-13,-13,True
+"Question: What is ninety-five minus thirty-nine?
+Answer:",56,56,True
+"Question: What is thirty-six minus eighty-one?
+Answer:",-45,-45,True
+"Question: What is forty-four minus seventy-six?
+Answer:",-32,-32,True
+"Question: What is five minus fourteen?
+Answer:",-9,-9,True
+"Question: What is six minus seven?
+Answer:",-1,-1,True
+"Question: What is ninety-four minus twenty-one?
+Answer:",73,73,True
+"Question: What is seventy-six minus ninety-three?
+Answer:",-17,-17,True
+"Question: What is forty-six minus sixteen?
+Answer:",30,30,True
+"Question: What is forty-three minus fifty-nine?
+Answer:",-16,-16,True
+"Question: What is eighty-two minus seventy-six?
+Answer:",6,6,True
+"Question: What is sixty-four minus fifty-six?
+Answer:",8,8,True
+"Question: What is twenty-nine minus ninety-three?
+Answer:",-64,-64,True
+"Question: What is thirty minus twenty-three?
+Answer:",7,7,True
+"Question: What is forty-eight minus forty-two?
+Answer:",6,6,True
+"Question: What is sixty-two minus twenty-five?
+Answer:",37,37,True
+"Question: What is seventy-one minus seventy-four?
+Answer:",-3,-3,True
+"Question: What is thirty-one minus twenty?
+Answer:",11,11,True
+"Question: What is sixty-eight minus forty-two?
+Answer:",26,26,True
+"Question: What is twenty-three minus sixty-five?
+Answer:",-42,-42,True
+"Question: What is forty-four minus twenty-six?
+Answer:",18,18,True
+"Question: What is twenty-five minus ninety-five?
+Answer:",-70,-70,True
+"Question: What is four minus sixty-one?
+Answer:",-57,-57,True
+"Question: What is sixty-four minus fourteen?
+Answer:",50,50,True
+"Question: What is ninety-four minus forty-two?
+Answer:",52,52,True
+"Question: What is forty minus fifty-six?
+Answer:",-16,-16,True
+"Question: What is sixty-five minus eighteen?
+Answer:",47,47,True
+"Question: What is eighty-nine minus seventy-two?
+Answer:",17,17,True
+"Question: What is thirty-six minus eighty-two?
+Answer:",-46,-46,True
+"Question: What is three minus thirty-three?
+Answer:",-30,-30,True
+"Question: What is twelve minus forty-five?
+Answer:",-33,-33,True
+"Question: What is eighty-three minus twenty-one?
+Answer:",62,62,True
+"Question: What is ninety-nine minus seventeen?
+Answer:",82,82,True
+"Question: What is ninety-six minus fifty-nine?
+Answer:",37,37,True
+"Question: What is twenty-nine minus sixty-six?
+Answer:",-37,-37,True
+"Question: What is forty-seven minus thirteen?
+Answer:",34,34,True
+"Question: What is thirty-six minus thirty-three?
+Answer:",3,3,True
+"Question: What is thirty-four minus twenty-seven?
+Answer:",7,7,True
+"Question: What is sixty-two minus fifty-eight?
+Answer:",4,4,True
+"Question: What is thirteen minus sixty-two?
+Answer:",-49,-49,True
+"Question: What is seventy-one minus twenty-six?
+Answer:",45,45,True
+"Question: What is eleven minus thirty-eight?
+Answer:",-27,-27,True
+"Question: What is fifty-eight minus fifty?
+Answer:",8,8,True
+"Question: What is seventy-two minus ninety-three?
+Answer:",-21,-21,True
+"Question: What is fifty-two minus fifty-four?
+Answer:",-2,-2,True
+"Question: What is fifty-five minus eighty-two?
+Answer:",-27,-27,True
+"Question: What is forty-three minus thirty?
+Answer:",13,13,True
+"Question: What is fifty-four minus twenty-one?
+Answer:",33,33,True
+"Question: What is thirty-six minus eighty-four?
+Answer:",-48,-48,True
+"Question: What is fifty minus two?
+Answer:",48,48,True
+"Question: What is five minus fifty?
+Answer:",-45,-45,True
+"Question: What is forty-six minus ninety-seven?
+Answer:",-51,-51,True
+"Question: What is twenty-nine minus sixteen?
+Answer:",13,13,True
+"Question: What is one minus ninety-seven?
+Answer:",-96,-96,True
+"Question: What is ninety-nine minus sixty-five?
+Answer:",34,34,True
+"Question: What is thirty-one minus twenty-five?
+Answer:",6,6,True
+"Question: What is twenty-one minus forty-seven?
+Answer:",-26,-26,True
+"Question: What is one minus ninety-three?
+Answer:",-92,-92,True
+"Question: What is forty-three minus ninety-nine?
+Answer:",-56,-56,True
+"Question: What is thirty-nine minus seventy-four?
+Answer:",-35,-35,True
+"Question: What is seven minus sixty-five?
+Answer:",-58,-58,True
+"Question: What is thirty minus thirty-six?
+Answer:",-6,-6,True
+"Question: What is fifty-three minus twenty-two?
+Answer:",31,Thirty-one,False
+"Question: What is sixty-nine minus forty-four?
+Answer:",25,25,True
+"Question: What is fifty-two minus twenty?
+Answer:",32,32,True
+"Question: What is forty-eight minus thirty-seven?
+Answer:",11,11,True
+"Question: What is thirty-seven minus seventy-nine?
+Answer:",-42,-42,True
+"Question: What is nine minus fifty-three?
+Answer:",-44,-44,True
+"Question: What is twenty minus thirty?
+Answer:",-10,-10,True
+"Question: What is thirty-two minus forty-two?
+Answer:",-10,-10,True
+"Question: What is twenty-nine minus ninety-two?
+Answer:",-63,-63,True
+"Question: What is fifteen minus eighty-six?
+Answer:",-71,-71,True
+"Question: What is twenty-four minus sixty-six?
+Answer:",-42,-42,True
+"Question: What is ninety-five minus twenty-four?
+Answer:",71,71,True
+"Question: What is fifty minus ninety?
+Answer:",-40,-40,True
+"Question: What is twenty-six minus forty?
+Answer:",-14,-14,True
+"Question: What is nineteen minus one?
+Answer:",18,18,True
+"Question: What is forty-eight minus fifty?
+Answer:",-2,-2,True
+"Question: What is eighty-eight minus fifty-three?
+Answer:",35,35,True
+"Question: What is seventy-two minus twenty-nine?
+Answer:",43,43,True
+"Question: What is twenty-seven minus eighty-one?
+Answer:",-54,-54,True
+"Question: What is fifty-four minus seventy-three?
+Answer:",-19,-19,True
+"Question: What is twenty-eight minus sixty-seven?
+Answer:",-39,-39,True
+"Question: What is fifty-five minus zero?
+Answer:",55,55,True
+"Question: What is twenty-six minus sixty-four?
+Answer:",-38,-38,True
+"Question: What is sixteen minus seventy-two?
+Answer:",-56,-56,True
+"Question: What is forty-two minus seventy-eight?
+Answer:",-36,-36,True
+"Question: What is sixty-one minus fifty?
+Answer:",11,11,True
+"Question: What is twenty-seven minus thirty-eight?
+Answer:",-11,-11,True
+"Question: What is ninety-three minus seventy-eight?
+Answer:",15,15,True
+"Question: What is forty-four minus fifty-five?
+Answer:",-11,-11,True
+"Question: What is fourteen minus eighty-five?
+Answer:",-71,-71,True
+"Question: What is zero minus twenty-seven?
+Answer:",-27,-27,True
+"Question: What is nineteen minus forty-one?
+Answer:",-22,-22,True
+"Question: What is eighty-seven minus ninety-seven?
+Answer:",-10,-10,True
+"Question: What is sixty-nine minus fifty-seven?
+Answer:",12,12,True
+"Question: What is sixteen minus nineteen?
+Answer:",-3,-3,True
+"Question: What is seventy-seven minus nineteen?
+Answer:",58,58,True
+"Question: What is twenty-six minus seventy-three?
+Answer:",-47,-47,True
+"Question: What is nineteen minus five?
+Answer:",14,Fourteen,False
+"Question: What is thirty-two minus two?
+Answer:",30,30,True
+"Question: What is seven minus ninety-five?
+Answer:",-88,-88,True
+"Question: What is thirty-four minus fifty-seven?
+Answer:",-23,-23,True
+"Question: What is eighteen minus eighty-four?
+Answer:",-66,-66,True
+"Question: What is ninety-five minus four?
+Answer:",91,91,True
+"Question: What is thirty-two minus sixty-six?
+Answer:",-34,-34,True
+"Question: What is twenty-four minus forty-four?
+Answer:",-20,-20,True
+"Question: What is twenty-seven minus seventy-three?
+Answer:",-46,-46,True
+"Question: What is thirteen minus twenty-three?
+Answer:",-10,-10,True
+"Question: What is seventy-nine minus fifty-nine?
+Answer:",20,20,True
+"Question: What is sixty-eight minus twenty-three?
+Answer:",45,45,True
+"Question: What is ninety-two minus twenty-five?
+Answer:",67,67,True
+"Question: What is ninety-six minus fifty-four?
+Answer:",42,42,True
+"Question: What is eighteen minus thirty-two?
+Answer:",-14,-14,True
+"Question: What is ninety-three minus sixty-eight?
+Answer:",25,25,True
+"Question: What is thirty minus sixty?
+Answer:",-30,-30,True
+"Question: What is seventy-nine minus sixty-four?
+Answer:",15,15,True
+"Question: What is fifty minus ninety-three?
+Answer:",-43,-43,True
+"Question: What is eighty-eight minus eighty-four?
+Answer:",4,4,True
+"Question: What is forty-four minus one?
+Answer:",43,43,True
+"Question: What is thirteen minus sixty-five?
+Answer:",-52,-52,True
+"Question: What is forty-one minus eighty?
+Answer:",-39,-39,True
+"Question: What is forty-eight minus one?
+Answer:",47,47,True
+"Question: What is seven minus forty-eight?
+Answer:",-41,-41,True
+"Question: What is eighty-six minus thirty-five?
+Answer:",51,51,True
+"Question: What is six minus zero?
+Answer:",6,Six,False
+"Question: What is thirty minus fifteen?
+Answer:",15,15,True
+"Question: What is thirty-four minus fifty-nine?
+Answer:",-25,-25,True
+"Question: What is twenty-eight minus forty-three?
+Answer:",-15,-15,True
+"Question: What is seventeen minus three?
+Answer:",14,14,True
+"Question: What is forty-six minus seventy-six?
+Answer:",-30,-30,True
+"Question: What is ninety-three minus ninety-two?
+Answer:",1,1,True
+"Question: What is sixty-two minus seventeen?
+Answer:",45,45,True
+"Question: What is ninety-eight minus eighty?
+Answer:",18,18,True
+"Question: What is seventy-five minus twelve?
+Answer:",63,63,True
+"Question: What is seventy-one minus fifty-two?
+Answer:",19,19,True
+"Question: What is thirty-three minus twenty-five?
+Answer:",8,8,True
+"Question: What is ninety-four minus seventy-three?
+Answer:",21,21,True
+"Question: What is ninety-three minus eleven?
+Answer:",82,82,True
+"Question: What is forty-three minus thirty-four?
+Answer:",9,9,True
+"Question: What is two minus eighty-two?
+Answer:",-80,-80,True
+"Question: What is fifty minus ninety-one?
+Answer:",-41,-41,True
+"Question: What is twenty-eight minus twenty-six?
+Answer:",2,2,True
+"Question: What is eighty minus seventy-two?
+Answer:",8,8,True
+"Question: What is eighty-five minus ninety-six?
+Answer:",-11,-11,True
+"Question: What is thirty-five minus seventy-eight?
+Answer:",-43,-43,True
+"Question: What is two minus fifty?
+Answer:",-48,-48,True
+"Question: What is eleven minus sixty-four?
+Answer:",-53,-53,True
+"Question: What is ninety-nine minus ninety-one?
+Answer:",8,8,True
+"Question: What is eighteen minus seventy-four?
+Answer:",-56,-56,True
+"Question: What is eighteen minus zero?
+Answer:",18,18,True
+"Question: What is seventy-one minus ninety-five?
+Answer:",-24,-24,True
+"Question: What is seventy-one minus thirty-nine?
+Answer:",32,32,True
+"Question: What is seventy-one minus ninety-eight?
+Answer:",-27,-27,True
+"Question: What is seventy minus thirty?
+Answer:",40,40,True
+"Question: What is seventy-nine minus fifty-eight?
+Answer:",21,21,True
+"Question: What is ninety-five minus forty-nine?
+Answer:",46,46,True
+"Question: What is twenty-six minus five?
+Answer:",21,21,True
+"Question: What is eleven minus thirty-five?
+Answer:",-24,-24,True
+"Question: What is forty-four minus seventy-nine?
+Answer:",-35,-35,True
+"Question: What is sixty minus fifty-four?
+Answer:",6,6,True
+"Question: What is thirty-three minus thirty-six?
+Answer:",-3,-3,True
+"Question: What is thirty-seven minus one?
+Answer:",36,36,True
+"Question: What is sixty-six minus thirteen?
+Answer:",53,53,True
+"Question: What is eighty-eight minus five?
+Answer:",83,83,True
+"Question: What is sixty-one minus ninety-five?
+Answer:",-34,-34,True
+"Question: What is eighteen minus eighty-one?
+Answer:",-63,-63,True
+"Question: What is thirty-eight minus twenty-two?
+Answer:",16,16,True
+"Question: What is sixty-nine minus twenty-one?
+Answer:",48,48,True
+"Question: What is seventy-seven minus ninety-one?
+Answer:",-14,-14,True
+"Question: What is eighteen minus twenty-two?
+Answer:",-4,-4,True

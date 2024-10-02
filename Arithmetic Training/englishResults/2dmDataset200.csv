@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is ninety-five times forty-five?
+Answer:",4275,4275,True
+"Question: What is fifty-four times four?
+Answer:",216,216,True
+"Question: What is four times sixty-nine?
+Answer:",276,276,True
+"Question: What is seventy times ninety-four?
+Answer:",6580,6580,True
+"Question: What is sixty-five times eighty-one?
+Answer:",5265,5265,True
+"Question: What is twenty-five times zero?
+Answer:",0,0,True
+"Question: What is three times seventy-one?
+Answer:",213,213,True
+"Question: What is twenty-seven times forty-one?
+Answer:",1107,1107,True
+"Question: What is thirty-one times eighty-five?
+Answer:",2635,2635,True
+"Question: What is ninety-two times eighty-three?
+Answer:",7636,7636,True
+"Question: What is sixty-eight times eighty-three?
+Answer:",5644,5644,True
+"Question: What is thirty-four times ninety-two?
+Answer:",3128,3136,False
+"Question: What is ninety-one times seventy-eight?
+Answer:",7098,7098,True
+"Question: What is ninety-seven times eighty-five?
+Answer:",8245,8245,True
+"Question: What is sixty-nine times thirty-one?
+Answer:",2139,2139,True
+"Question: What is fifty-five times eighty-seven?
+Answer:",4785,4785,True
+"Question: What is ninety-four times forty-two?
+Answer:",3948,3948,True
+"Question: What is forty-eight times twenty-three?
+Answer:",1104,1104,True
+"Question: What is ninety-two times seven?
+Answer:",644,644,True
+"Question: What is seventy-seven times ninety-nine?
+Answer:",7623,7623,True
+"Question: What is eighty-eight times thirty-two?
+Answer:",2816,2816,True
+"Question: What is eleven times seven?
+Answer:",77,77,True
+"Question: What is forty times thirty-six?
+Answer:",1440,1440,True
+"Question: What is thirty-nine times twenty-seven?
+Answer:",1053,1053,True
+"Question: What is ninety times fifty-six?
+Answer:",5040,5040,True
+"Question: What is sixty-seven times sixteen?
+Answer:",1072,1072,True
+"Question: What is fifty-four times twenty-six?
+Answer:",1404,1404,True
+"Question: What is fifty-one times sixty-six?
+Answer:",3366,3366,True
+"Question: What is ninety-one times ninety-five?
+Answer:",8645,8645,True
+"Question: What is forty-four times sixty-three?
+Answer:",2772,2772,True
+"Question: What is twenty-five times forty-eight?
+Answer:",1200,1200,True
+"Question: What is ninety-eight times eighty-three?
+Answer:",8134,8134,True
+"Question: What is thirty times six?
+Answer:",180,180,True
+"Question: What is seven times fifty?
+Answer:",350,350,True
+"Question: What is twelve times thirty-four?
+Answer:",408,408,True
+"Question: What is ninety-nine times sixty-two?
+Answer:",6138,6138,True
+"Question: What is forty-nine times ninety-three?
+Answer:",4557,4557,True
+"Question: What is sixty-two times forty-three?
+Answer:",2666,2666,True
+"Question: What is seven times eighty-nine?
+Answer:",623,623,True
+"Question: What is forty-four times forty-eight?
+Answer:",2112,2112,True
+"Question: What is forty-three times five?
+Answer:",215,215,True
+"Question: What is thirty-two times fifty-six?
+Answer:",1792,1792,True
+"Question: What is ninety times sixty-three?
+Answer:",5670,5670,True
+"Question: What is eight times fifty-eight?
+Answer:",464,464,True
+"Question: What is thirty times thirty-five?
+Answer:",1050,1050,True
+"Question: What is thirty-five times thirteen?
+Answer:",455,455,True
+"Question: What is forty-seven times twelve?
+Answer:",564,564,True
+"Question: What is forty times two?
+Answer:",80,80,True
+"Question: What is seventy-seven times ten?
+Answer:",770,770,True
+"Question: What is ten times sixty-two?
+Answer:",620,620,True
+"Question: What is nineteen times sixteen?
+Answer:",304,304,True
+"Question: What is forty times twenty-nine?
+Answer:",1160,1160,True
+"Question: What is forty-one times fifty-eight?
+Answer:",2378,2378,True
+"Question: What is twenty-one times thirty-one?
+Answer:",651,651,True
+"Question: What is thirty-three times eleven?
+Answer:",363,363,True
+"Question: What is eighty-one times fifty-six?
+Answer:",4536,4536,True
+"Question: What is sixty-four times one?
+Answer:",64,64,True
+"Question: What is four times twelve?
+Answer:",48,48,True
+"Question: What is fifty-four times seventeen?
+Answer:",918,918,True
+"Question: What is eighty-five times twenty?
+Answer:",1700,1700,True
+"Question: What is ninety-one times eighty-one?
+Answer:",7371,7371,True
+"Question: What is sixty-four times zero?
+Answer:",0,0,True
+"Question: What is twenty-two times forty-seven?
+Answer:",1034,1034,True
+"Question: What is seventy-three times thirty-six?
+Answer:",2628,2628,True
+"Question: What is eighty-seven times ninety-seven?
+Answer:",8439,8439,True
+"Question: What is sixty-nine times twenty-nine?
+Answer:",2001,2001,True
+"Question: What is ten times seventy-four?
+Answer:",740,740,True
+"Question: What is ninety-five times eighty-five?
+Answer:",8075,8075,True
+"Question: What is nineteen times forty-five?
+Answer:",855,855,True
+"Question: What is eighty-one times seventy-one?
+Answer:",5751,5741,False
+"Question: What is forty-two times zero?
+Answer:",0,0,True
+"Question: What is sixty-six times three?
+Answer:",198,198,True
+"Question: What is twelve times forty-two?
+Answer:",504,504,True
+"Question: What is seventeen times ninety-seven?
+Answer:",1649,1649,True
+"Question: What is twelve times thirty-seven?
+Answer:",444,444,True
+"Question: What is sixty-five times fifty-seven?
+Answer:",3705,3705,True
+"Question: What is sixty-seven times ninety-three?
+Answer:",6231,6231,True
+"Question: What is twenty-four times three?
+Answer:",72,72,True
+"Question: What is sixty-six times fifty-eight?
+Answer:",3828,3828,True
+"Question: What is seventy-nine times fifty-eight?
+Answer:",4582,4582,True
+"Question: What is forty-seven times forty-three?
+Answer:",2021,2021,True
+"Question: What is twenty-two times fifteen?
+Answer:",330,330,True
+"Question: What is twenty-one times eighty-five?
+Answer:",1785,1785,True
+"Question: What is eighty-four times forty-two?
+Answer:",3528,3528,True
+"Question: What is seventy-four times thirteen?
+Answer:",962,962,True
+"Question: What is four times eighty-nine?
+Answer:",356,356,True
+"Question: What is fifty-four times seventy-two?
+Answer:",3888,3888,True
+"Question: What is fifty times ninety-one?
+Answer:",4550,4550,True
+"Question: What is fifty-nine times sixty-eight?
+Answer:",4012,4012,True
+"Question: What is thirty-seven times sixty-nine?
+Answer:",2553,2553,True
+"Question: What is fourteen times forty-eight?
+Answer:",672,672,True
+"Question: What is four times zero?
+Answer:",0,0,True
+"Question: What is ninety times eighty-two?
+Answer:",7380,7380,True
+"Question: What is eighty-two times thirty-two?
+Answer:",2624,2624,True
+"Question: What is twenty-three times forty-eight?
+Answer:",1104,1104,True
+"Question: What is fifty-three times seventy-eight?
+Answer:",4134,4134,True
+"Question: What is six times ninety-eight?
+Answer:",588,588,True
+"Question: What is sixty-six times forty-four?
+Answer:",2904,2904,True
+"Question: What is forty-six times nineteen?
+Answer:",874,874,True
+"Question: What is thirty-two times sixty-one?
+Answer:",1952,1952,True
+"Question: What is thirty-two times eighty?
+Answer:",2560,2560,True
+"Question: What is sixty-six times eighty-four?
+Answer:",5544,5544,True
+"Question: What is ninety-six times thirty-four?
+Answer:",3264,3264,True
+"Question: What is ninety-seven times seventy-four?
+Answer:",7178,7178,True
+"Question: What is forty-nine times eighty-one?
+Answer:",3969,3969,True
+"Question: What is twenty-two times thirty?
+Answer:",660,660,True
+"Question: What is eighty times thirty-five?
+Answer:",2800,2800,True
+"Question: What is thirty-one times eleven?
+Answer:",341,341,True
+"Question: What is thirty-two times seven?
+Answer:",224,224,True
+"Question: What is twenty-seven times twenty-four?
+Answer:",648,648,True
+"Question: What is eighty-three times seventy-six?
+Answer:",6308,6308,True
+"Question: What is fifty-two times fifty-four?
+Answer:",2808,2808,True
+"Question: What is eighty-four times seventy-eight?
+Answer:",6552,6552,True
+"Question: What is forty-two times four?
+Answer:",168,168,True
+"Question: What is twenty-one times twenty-six?
+Answer:",546,546,True
+"Question: What is eighty-seven times eighty-eight?
+Answer:",7656,7656,True
+"Question: What is eighty-four times fifteen?
+Answer:",1260,1260,True
+"Question: What is seventy-three times forty-two?
+Answer:",3066,3066,True
+"Question: What is eighteen times thirty-nine?
+Answer:",702,702,True
+"Question: What is twenty-one times fifty-two?
+Answer:",1092,1092,True
+"Question: What is six times four?
+Answer:",24,24,True
+"Question: What is eighty times zero?
+Answer:",0,0,True
+"Question: What is thirty-two times seventy-six?
+Answer:",2432,2432,True
+"Question: What is six times eighty-five?
+Answer:",510,510,True
+"Question: What is twenty-three times fifty-seven?
+Answer:",1311,1311,True
+"Question: What is twenty times twenty?
+Answer:",400,400,True
+"Question: What is fifty-nine times eighty-six?
+Answer:",5074,5074,True
+"Question: What is ninety-seven times ninety-eight?
+Answer:",9506,9506,True
+"Question: What is sixty-nine times forty-seven?
+Answer:",3243,3243,True
+"Question: What is eighty-three times twenty-seven?
+Answer:",2241,2241,True
+"Question: What is eighty-five times ninety-five?
+Answer:",8075,8075,True
+"Question: What is seventy-two times seventy-one?
+Answer:",5112,5112,True
+"Question: What is eighty-seven times forty-three?
+Answer:",3741,3741,True
+"Question: What is ten times forty-six?
+Answer:",460,460,True
+"Question: What is forty-one times twenty-eight?
+Answer:",1148,1148,True
+"Question: What is thirty-eight times eighty-three?
+Answer:",3154,3154,True
+"Question: What is eighty-one times seventy-five?
+Answer:",6075,6075,True
+"Question: What is seventy-two times eighty-six?
+Answer:",6192,6192,True
+"Question: What is seventeen times sixteen?
+Answer:",272,272,True
+"Question: What is sixty-nine times twenty-eight?
+Answer:",1932,1932,True
+"Question: What is eighty-seven times seventy-five?
+Answer:",6525,6525,True
+"Question: What is nine times eighty-four?
+Answer:",756,756,True
+"Question: What is ninety-five times forty-six?
+Answer:",4370,4370,True
+"Question: What is thirteen times thirty?
+Answer:",390,390,True
+"Question: What is five times nineteen?
+Answer:",95,95,True
+"Question: What is ninety-seven times nineteen?
+Answer:",1843,1843,True
+"Question: What is fifty-three times eighty-five?
+Answer:",4505,4505,True
+"Question: What is fifteen times sixty-six?
+Answer:",990,990,True
+"Question: What is thirty-eight times sixty?
+Answer:",2280,2280,True
+"Question: What is ten times sixty-four?
+Answer:",640,640,True
+"Question: What is seventy-five times seventy-seven?
+Answer:",5775,5775,True
+"Question: What is eight times seventy-nine?
+Answer:",632,632,True
+"Question: What is thirty-six times twenty-seven?
+Answer:",972,972,True
+"Question: What is nineteen times sixty-seven?
+Answer:",1273,1273,True
+"Question: What is three times thirty-one?
+Answer:",93,93,True
+"Question: What is fifty-two times thirty-two?
+Answer:",1664,1664,True
+"Question: What is two times eighty-eight?
+Answer:",176,176,True
+"Question: What is forty-eight times thirteen?
+Answer:",624,624,True
+"Question: What is ninety-two times fifty-eight?
+Answer:",5336,5336,True
+"Question: What is six times sixty?
+Answer:",360,360,True
+"Question: What is sixteen times ninety-seven?
+Answer:",1552,1552,True
+"Question: What is fifty-three times eighty-eight?
+Answer:",4664,4664,True
+"Question: What is ninety-seven times sixty-six?
+Answer:",6402,6402,True
+"Question: What is sixty-nine times sixty?
+Answer:",4140,4140,True
+"Question: What is ten times fifty-two?
+Answer:",520,520,True
+"Question: What is seventy-two times forty-five?
+Answer:",3240,3240,True
+"Question: What is nineteen times fifty-two?
+Answer:",988,988,True
+"Question: What is ninety-five times seventeen?
+Answer:",1615,1615,True
+"Question: What is seventy-two times forty-eight?
+Answer:",3456,3456,True
+"Question: What is forty-four times eighty-nine?
+Answer:",3916,3916,True
+"Question: What is seven times eighteen?
+Answer:",126,126,True
+"Question: What is sixty-three times fifty-six?
+Answer:",3528,3528,True
+"Question: What is sixty-three times twenty-one?
+Answer:",1323,1323,True
+"Question: What is twenty-four times four?
+Answer:",96,96,True
+"Question: What is seventy-eight times seventy?
+Answer:",5460,5460,True
+"Question: What is ninety-three times sixteen?
+Answer:",1488,1488,True
+"Question: What is thirty-nine times seventy-five?
+Answer:",2925,2925,True
+"Question: What is eighty-four times five?
+Answer:",420,420,True
+"Question: What is forty-two times eighty-one?
+Answer:",3402,3402,True
+"Question: What is seventy-one times seventy-six?
+Answer:",5396,5396,True
+"Question: What is forty-six times ninety-four?
+Answer:",4324,4324,True
+"Question: What is twenty-four times forty-six?
+Answer:",1104,1104,True
+"Question: What is fifty-eight times eighty-five?
+Answer:",4930,4930,True
+"Question: What is six times thirty-four?
+Answer:",204,204,True
+"Question: What is ninety times seventy-three?
+Answer:",6570,6570,True
+"Question: What is eighty-two times twelve?
+Answer:",984,984,True
+"Question: What is seventy-nine times ninety-three?
+Answer:",7347,7347,True
+"Question: What is eighty-one times ninety?
+Answer:",7290,7290,True
+"Question: What is eighty-one times twenty-seven?
+Answer:",2187,2187,True
+"Question: What is seven times ninety-one?
+Answer:",637,637,True
+"Question: What is ninety-seven times eighty-two?
+Answer:",7954,7954,True
+"Question: What is sixty-eight times thirty-eight?
+Answer:",2584,2584,True
+"Question: What is fifty-four times eighty-five?
+Answer:",4590,4590,True
+"Question: What is fifteen times twenty-three?
+Answer:",345,345,True
+"Question: What is fourteen times ninety-eight?
+Answer:",1372,1372,True
+"Question: What is thirty-seven times forty-one?
+Answer:",1517,1517,True
+"Question: What is forty-eight times nine?
+Answer:",432,432,True
+"Question: What is fifty times forty-seven?
+Answer:",2350,2350,True
+"Question: What is five times ninety?
+Answer:",450,450,True
+"Question: What is eighty times eighteen?
+Answer:",1440,1440,True

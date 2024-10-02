@@ -1,0 +1,401 @@
+,problem,expected_answer,gpt4_answer,is_correct
+0,"Question: What is nine thousand, nine hundred and twenty-three plus six hundred and seventeen?
+Answer:",10540,10540,True
+1,"Question: What is seven thousand, one hundred and thirty-one plus six thousand and forty-six?
+Answer:",13177,13177,True
+2,"Question: What is six thousand, eight hundred and eighty-eight plus six thousand, seven hundred and sixty?
+Answer:",13648,13648,True
+3,"Question: What is seven thousand, eight hundred and seventy-seven plus three thousand, one hundred and seventy-one?
+Answer:",11048,11048,True
+4,"Question: What is two thousand, four hundred and seventy plus seven thousand and seventy-three?
+Answer:",9543,9543,True
+5,"Question: What is five thousand and twenty-seven plus nine thousand, nine hundred and eleven?
+Answer:",14938,14938,True
+6,"Question: What is four thousand, eight hundred and forty-nine plus five thousand, nine hundred and sixty-two?
+Answer:",10811,10811,True
+7,"Question: What is six thousand, seven hundred and sixty-one plus four thousand, two hundred and three?
+Answer:",10964,9964,False
+8,"Question: What is seven thousand, one hundred and forty-six plus eight thousand, eight hundred and ninety-eight?
+Answer:",16044,16044,True
+9,"Question: What is seven thousand, nine hundred and seventy-four plus four thousand, two hundred?
+Answer:",12174,12174,True
+10,"Question: What is seven thousand, two hundred and nineteen plus three hundred and fifty?
+Answer:",7569,7569,True
+11,"Question: What is five thousand, five hundred and ten plus eight thousand, five hundred and sixty-two?
+Answer:",14072,14072,True
+12,"Question: What is three thousand, five hundred and eleven plus six?
+Answer:",3517,3517,True
+13,"Question: What is one thousand, nine hundred and eight plus two thousand, two hundred and ninety-six?
+Answer:",4204,4204,True
+14,"Question: What is five thousand, eight hundred and twenty-seven plus eight hundred and twelve?
+Answer:",6639,6639,True
+15,"Question: What is eight thousand, eight hundred and four plus seven thousand and forty-six?
+Answer:",15850,15850,True
+16,"Question: What is five hundred and forty-two plus five thousand, three hundred and forty-one?
+Answer:",5883,5883,True
+17,"Question: What is four thousand, seven hundred and forty-three plus one thousand and seven?
+Answer:",5750,5740,False
+18,"Question: What is six thousand and forty-three plus six thousand, two hundred and twenty-seven?
+Answer:",12270,12270,True
+19,"Question: What is three thousand, seven hundred and forty-six plus one thousand, four hundred and ten?
+Answer:",5156,5156,True
+20,"Question: What is three thousand, eight hundred and fifty-one plus two thousand, seven hundred and eleven?
+Answer:",6562,6562,True
+21,"Question: What is two thousand, two hundred and thirty-three plus six thousand, two hundred and twenty-two?
+Answer:",8455,8455,True
+22,"Question: What is nine thousand, seven hundred and eighty-three plus seven thousand, seven hundred and twenty-two?
+Answer:",17505,17505,True
+23,"Question: What is six thousand and fifty-five plus one thousand, one hundred and twenty-three?
+Answer:",7178,7178,True
+24,"Question: What is seven thousand, two hundred and seventeen plus five thousand, three hundred and ninety-one?
+Answer:",12608,12608,True
+25,"Question: What is eight thousand, six hundred and thirty-nine plus three thousand, seven hundred and thirty-seven?
+Answer:",12376,12376,True
+26,"Question: What is six thousand, four hundred and eighty-five plus three thousand, nine hundred and eighteen?
+Answer:",10403,10403,True
+27,"Question: What is two thousand, five hundred and seventy-two plus two thousand, one hundred and four?
+Answer:",4676,4676,True
+28,"Question: What is seven thousand, six hundred and seventy-one plus nine thousand, seven hundred and forty?
+Answer:",17411,17411,True
+29,"Question: What is nine thousand, seven hundred and forty plus three thousand, four hundred and sixty-six?
+Answer:",13206,13206,True
+30,"Question: What is seven hundred and eight plus eight thousand, three hundred and three?
+Answer:",9011,9011,True
+31,"Question: What is three thousand, six hundred and ninety-seven plus four thousand, two hundred and thirty-seven?
+Answer:",7934,7934,True
+32,"Question: What is three thousand, one hundred and fourteen plus eight thousand, one hundred and forty-one?
+Answer:",11255,11255,True
+33,"Question: What is nine thousand, five hundred and twenty plus seven thousand, three hundred and eighty-two?
+Answer:",16902,16902,True
+34,"Question: What is two thousand, five hundred and nine plus one thousand, nine hundred and thirty-nine?
+Answer:",4448,4448,True
+35,"Question: What is four thousand, six hundred and fifty-five plus eight thousand and sixty?
+Answer:",12715,12715,True
+36,"Question: What is three thousand, four hundred and seventy plus three thousand, one hundred and sixteen?
+Answer:",6586,6586,True
+37,"Question: What is eight hundred and three plus seven thousand, five hundred and eighty-four?
+Answer:",8387,8387,True
+38,"Question: What is five hundred and sixteen plus three thousand, seven hundred and eleven?
+Answer:",4227,4227,True
+39,"Question: What is six thousand and one plus eight thousand and eighty-three?
+Answer:",14084,14084,True
+40,"Question: What is two thousand, three hundred and ninety-four plus two thousand, nine hundred and seventy-five?
+Answer:",5369,5369,True
+41,"Question: What is four thousand, nine hundred and fifty plus three thousand, three hundred and sixty?
+Answer:",8310,8310,True
+42,"Question: What is nine thousand and sixty-eight plus eight hundred and twenty-seven?
+Answer:",9895,9895,True
+43,"Question: What is nine thousand and fifty-five plus four thousand, eight hundred and eighty?
+Answer:",13935,13935,True
+44,"Question: What is three thousand, nine hundred and four plus seven thousand and seventy-three?
+Answer:",10977,10977,True
+45,"Question: What is one thousand and twelve plus five thousand, seven hundred and sixty-three?
+Answer:",6775,6775,True
+46,"Question: What is eight thousand and fifty plus five thousand, two hundred and forty-eight?
+Answer:",13298,13298,True
+47,"Question: What is eight thousand, six hundred and ninety-eight plus three thousand, four hundred and seventy-three?
+Answer:",12171,12171,True
+48,"Question: What is six thousand, five hundred and twenty-four plus two thousand, eight hundred and ninety-one?
+Answer:",9415,9415,True
+49,"Question: What is six thousand, three hundred and thirty-nine plus one thousand, five hundred and nineteen?
+Answer:",7858,7858,True
+50,"Question: What is nine thousand, five hundred and eighty-six plus nine thousand, five hundred and twenty-two?
+Answer:",19108,19008,False
+51,"Question: What is one thousand, two hundred and three plus three thousand, six hundred and seventy?
+Answer:",4873,4873,True
+52,"Question: What is six thousand, four hundred and forty-four plus five thousand, one hundred and twenty-four?
+Answer:",11568,11568,True
+53,"Question: What is three thousand, two hundred and fifty-one plus two thousand, eight hundred and ninety-six?
+Answer:",6147,6147,True
+54,"Question: What is eight thousand, one hundred and forty plus one thousand, two hundred and six?
+Answer:",9346,167,False
+55,"Question: What is six thousand, one hundred and four plus two thousand, four hundred and fifty-four?
+Answer:",8558,8558,True
+56,"Question: What is six thousand, eight hundred and fifty-five plus four thousand and forty?
+Answer:",10895,8895,False
+57,"Question: What is two thousand, seven hundred and eighty-nine plus two thousand, nine hundred and ten?
+Answer:",5699,5699,True
+58,"Question: What is three thousand and fourteen plus five thousand, seven hundred and ten?
+Answer:",8724,8724,True
+59,"Question: What is seven thousand and fifty-six plus seven thousand, seven hundred and two?
+Answer:",14758,14758,True
+60,"Question: What is four thousand, three hundred and sixty-two plus seven thousand, four hundred and thirty-two?
+Answer:",11794,11794,True
+61,"Question: What is nine hundred and sixty-nine plus three thousand, two hundred and thirty-nine?
+Answer:",4208,4208,True
+62,"Question: What is two thousand, nine hundred and forty-six plus seven thousand, five hundred and sixty-eight?
+Answer:",10514,10514,True
+63,"Question: What is nine thousand, four hundred and sixty-four plus seven thousand, two hundred and forty-nine?
+Answer:",16713,16713,True
+64,"Question: What is three thousand, six hundred and sixty-nine plus six hundred and seventy-one?
+Answer:",4340,4340,True
+65,"Question: What is six thousand, nine hundred and seventy-eight plus one thousand, five hundred and sixteen?
+Answer:",8494,8494,True
+66,"Question: What is nine thousand, two hundred and fourteen plus seven thousand and twenty-two?
+Answer:",16236,16236,True
+67,"Question: What is nine thousand, six hundred and thirty plus three thousand, one hundred and eighty?
+Answer:",12810,12810,True
+68,"Question: What is five thousand, six hundred and fifty-eight plus one thousand, eight hundred and eighty-four?
+Answer:",7542,7542,True
+69,"Question: What is five thousand, nine hundred and fifty-four plus nine thousand, six hundred and forty-one?
+Answer:",15595,15595,True
+70,"Question: What is two thousand, three hundred and ninety plus six thousand, one hundred and eighty-four?
+Answer:",8574,8574,True
+71,"Question: What is one thousand and sixteen plus seven thousand, one hundred and sixty?
+Answer:",8176,8176,True
+72,"Question: What is seven hundred and one plus nine thousand, two hundred and seventy?
+Answer:",9971,9971,True
+73,"Question: What is six thousand, eight hundred and ninety-eight plus nine thousand, one hundred and seventy-seven?
+Answer:",16075,16075,True
+74,"Question: What is four thousand, six hundred and eleven plus six thousand, nine hundred and forty-nine?
+Answer:",11560,11560,True
+75,"Question: What is two thousand, six hundred and fifty-eight plus one thousand, three hundred and eighty-four?
+Answer:",4042,4042,True
+76,"Question: What is one thousand and fifty-seven plus three thousand, three hundred and thirty-nine?
+Answer:",4396,4396,True
+77,"Question: What is seven thousand, four hundred and eighty-nine plus eight thousand, eight hundred and ninety-two?
+Answer:",16381,16381,True
+78,"Question: What is two thousand, nine hundred and fifty-three plus six thousand, four hundred and twenty-nine?
+Answer:",9382,9382,True
+79,"Question: What is one thousand, six hundred and seventy-two plus three thousand, six hundred and five?
+Answer:",5277,5277,True
+80,"Question: What is two thousand and eighty plus four thousand, two hundred and fifty-six?
+Answer:",6336,6336,True
+81,"Question: What is three thousand, eight hundred and forty-six plus three thousand and eleven?
+Answer:",6857,6857,True
+82,"Question: What is seven thousand, nine hundred and thirty-four plus five thousand, six hundred and ninety?
+Answer:",13624,13624,True
+83,"Question: What is six thousand, three hundred and ninety-two plus three thousand, nine hundred and eighty-one?
+Answer:",10373,10373,True
+84,"Question: What is five thousand, seven hundred and two plus five thousand, six hundred and eighty-seven?
+Answer:",11389,11389,True
+85,"Question: What is seven thousand, one hundred plus five thousand, six hundred and sixty-one?
+Answer:",12761,12761,True
+86,"Question: What is six thousand, six hundred and eighty-eight plus eight thousand, five hundred and fifty-seven?
+Answer:",15245,15245,True
+87,"Question: What is three thousand, seven hundred and fifty plus six thousand, four hundred and twenty-four?
+Answer:",10174,10174,True
+88,"Question: What is seven thousand, four hundred and eighty-one plus two thousand, seven hundred and fourteen?
+Answer:",10195,10195,True
+89,"Question: What is seven thousand, eight hundred and twelve plus two thousand, eight hundred and eighty?
+Answer:",10692,10692,True
+90,"Question: What is seven thousand, seven hundred and thirty-nine plus five hundred and sixty-six?
+Answer:",8305,8305,True
+91,"Question: What is nine thousand, nine hundred and ninety-seven plus six thousand, four hundred and fifty-four?
+Answer:",16451,16451,True
+92,"Question: What is eight thousand, two hundred and eighty-nine plus seven thousand, five hundred and ninety-six?
+Answer:",15885,15885,True
+93,"Question: What is five thousand and seven plus five thousand and ninety-five?
+Answer:",10102,10102,True
+94,"Question: What is one thousand, nine hundred and thirteen plus seven thousand, three hundred and fifty-six?
+Answer:",9269,9269,True
+95,"Question: What is six thousand, eight hundred and eighteen plus one thousand, seven hundred and seventy-five?
+Answer:",8593,8593,True
+96,"Question: What is three thousand, six hundred and eighty-eight plus seven thousand, eight hundred and fifty-three?
+Answer:",11541,11541,True
+97,"Question: What is five thousand, seven hundred and thirty-one plus five thousand, nine hundred and forty-four?
+Answer:",11675,11675,True
+98,"Question: What is six thousand, three hundred and thirty-two plus two thousand, nine hundred and seven?
+Answer:",9239,9239,True
+99,"Question: What is three thousand, six hundred and sixteen plus two thousand, four hundred and thirty-eight?
+Answer:",6054,6054,True
+100,"Question: What is nine thousand, five hundred and one plus six thousand, nine hundred and sixty-six?
+Answer:",16467,16467,True
+101,"Question: What is one thousand, five hundred and seventy-eight plus six thousand, eight hundred and forty-nine?
+Answer:",8427,8427,True
+102,"Question: What is three thousand, six hundred and fifty-nine plus five thousand, four hundred and eighty-five?
+Answer:",9144,9144,True
+103,"Question: What is five thousand, nine hundred and fifty-five plus seven thousand, two hundred and twenty-two?
+Answer:",13177,13177,True
+104,"Question: What is two thousand, six hundred and eighty-eight plus five thousand, five hundred and forty-nine?
+Answer:",8237,8237,True
+105,"Question: What is five thousand, six hundred and forty-three plus nine thousand, four hundred and nineteen?
+Answer:",15062,15062,True
+106,"Question: What is seven thousand, five hundred and sixty-one plus nine hundred and fifteen?
+Answer:",8476,8476,True
+107,"Question: What is three thousand, eight hundred and ninety-three plus eight thousand, five hundred and thirty-eight?
+Answer:",12431,12431,True
+108,"Question: What is five thousand, three hundred and sixty-two plus seven thousand and fifty-one?
+Answer:",12413,12413,True
+109,"Question: What is eight thousand, four hundred and thirty-two plus four hundred and sixty-seven?
+Answer:",8899,8899,True
+110,"Question: What is eight thousand, five hundred and nineteen plus two thousand, four hundred and twenty-two?
+Answer:",10941,10941,True
+111,"Question: What is two thousand, four hundred and seventy-eight plus four thousand, one hundred and seventy-six?
+Answer:",6654,6654,True
+112,"Question: What is eight thousand, six hundred and sixty-six plus three thousand, one hundred and forty-one?
+Answer:",11807,11807,True
+113,"Question: What is three thousand, seven hundred and sixty-eight plus nine thousand, five hundred and forty-five?
+Answer:",13313,13313,True
+114,"Question: What is four thousand, six hundred and twelve plus seven thousand, eight hundred and sixteen?
+Answer:",12428,12428,True
+115,"Question: What is six thousand, five hundred and sixty-five plus four thousand and sixty-one?
+Answer:",10626,10626,True
+116,"Question: What is fifty plus eight thousand, five hundred and fifty-two?
+Answer:",8602,8602,True
+117,"Question: What is two thousand, two hundred and ninety-three plus two thousand, two hundred and twelve?
+Answer:",4505,4505,True
+118,"Question: What is one thousand, nine hundred and five plus five thousand, four hundred and seventy-nine?
+Answer:",7384,7384,True
+119,"Question: What is four thousand and fifty-four plus one thousand, nine hundred and seventy-seven?
+Answer:",6031,6031,True
+120,"Question: What is one thousand, eight hundred and sixteen plus nine thousand, five hundred and sixty-seven?
+Answer:",11383,11383,True
+121,"Question: What is two thousand, six hundred and sixty-six plus one thousand, four hundred and fifty-three?
+Answer:",4119,4119,True
+122,"Question: What is one thousand and eighty-eight plus five thousand, four hundred and sixty-three?
+Answer:",6551,6551,True
+123,"Question: What is five thousand, four hundred and seventy-four plus one thousand and twenty-three?
+Answer:",6497,6497,True
+124,"Question: What is six thousand, five hundred and twenty plus nine thousand, three hundred and ninety-four?
+Answer:",15914,15914,True
+125,"Question: What is one thousand and eighty-three plus one thousand, seven hundred and twenty-eight?
+Answer:",2811,2811,True
+126,"Question: What is seven thousand, one hundred and fifty-one plus seven thousand, three hundred and eighty-five?
+Answer:",14536,14536,True
+127,"Question: What is four thousand, eight hundred and eighty-four plus one thousand, two hundred and thirteen?
+Answer:",6097,6097,True
+128,"Question: What is four thousand, seven hundred and sixty plus four hundred and fourteen?
+Answer:",5174,5174,True
+129,"Question: What is three thousand, seven hundred and sixty-two plus two thousand, four hundred and one?
+Answer:",6163,6163,True
+130,"Question: What is three thousand, eight hundred and six plus one thousand, two hundred and seventy?
+Answer:",5076,5076,True
+131,"Question: What is seven thousand, three hundred and fifty-two plus ninety-eight?
+Answer:",7450,7450,True
+132,"Question: What is nine thousand, three hundred and ninety-seven plus two thousand, five hundred and eight?
+Answer:",11905,11905,True
+133,"Question: What is two thousand, eight hundred and eighty-seven plus eight hundred and fifty-five?
+Answer:",3742,3742,True
+134,"Question: What is seven hundred and forty-one plus six thousand, eight hundred and fifty-one?
+Answer:",7592,7592,True
+135,"Question: What is four thousand, one hundred and seven plus four thousand, four hundred and seventy-two?
+Answer:",8579,8579,True
+136,"Question: What is six thousand, six hundred and six plus seven thousand, four hundred and thirty-five?
+Answer:",14041,14041,True
+137,"Question: What is one thousand, one hundred and eight plus nine thousand, four hundred and ninety-nine?
+Answer:",10607,10607,True
+138,"Question: What is six thousand, eight hundred and nineteen plus sixty-five?
+Answer:",6884,6884,True
+139,"Question: What is eight hundred and seventy-nine plus nine thousand and thirty-eight?
+Answer:",9917,9917,True
+140,"Question: What is four thousand, four hundred and fifty-four plus two thousand, two hundred and sixty-eight?
+Answer:",6722,6722,True
+141,"Question: What is six thousand, nine hundred and seventy-one plus five thousand, six hundred and ninety-five?
+Answer:",12666,12666,True
+142,"Question: What is two thousand, six hundred and ninety-seven plus three thousand, four hundred and sixty?
+Answer:",6157,4067,False
+143,"Question: What is three hundred and fifty-eight plus five hundred and sixty-nine?
+Answer:",927,927,True
+144,"Question: What is four thousand, six hundred and sixty plus nine thousand, seven hundred and forty-four?
+Answer:",14404,14404,True
+145,"Question: What is three thousand, seven hundred and two plus five thousand, five hundred and sixty-three?
+Answer:",9265,9265,True
+146,"Question: What is two thousand and ninety plus three thousand, three hundred?
+Answer:",5390,5390,True
+147,"Question: What is nine thousand, nine hundred and thirty-eight plus six thousand, eight hundred and fifty?
+Answer:",16788,16788,True
+148,"Question: What is nine thousand, two hundred and fifty-three plus three hundred and ninety-four?
+Answer:",9647,9647,True
+149,"Question: What is one thousand, one hundred and eighty-two plus six thousand, five hundred and twenty-seven?
+Answer:",7709,7709,True
+150,"Question: What is seven thousand, three hundred and nineteen plus eight thousand, one hundred and fifty-two?
+Answer:",15471,15471,True
+151,"Question: What is two thousand, one hundred and fourteen plus two thousand and fifteen?
+Answer:",4129,4129,True
+152,"Question: What is four thousand, seven hundred and five plus eight thousand, six hundred and ninety-nine?
+Answer:",13404,13404,True
+153,"Question: What is four thousand, six hundred and two plus seven thousand, two hundred and twenty-nine?
+Answer:",11831,11831,True
+154,"Question: What is three thousand, five hundred and sixty-five plus eight thousand, four hundred and seventy-five?
+Answer:",12040,12040,True
+155,"Question: What is three thousand, nine hundred and thirteen plus one thousand, six hundred and fourteen?
+Answer:",5527,5527,True
+156,"Question: What is six thousand, four hundred and fifty-seven plus nine thousand, eight hundred and thirty-six?
+Answer:",16293,16293,True
+157,"Question: What is four hundred and ninety-three plus two thousand, nine hundred and fifty-four?
+Answer:",3447,3447,True
+158,"Question: What is nine thousand, one hundred plus six thousand, five hundred and seventy-three?
+Answer:",15673,15673,True
+159,"Question: What is six thousand, four hundred and seventy-nine plus seven hundred and eighty?
+Answer:",7259,7259,True
+160,"Question: What is two thousand, three hundred and ninety-four plus four thousand, seven hundred and sixty-seven?
+Answer:",7161,7161,True
+161,"Question: What is two thousand, four hundred and twenty-three plus eight thousand, three hundred and sixty-four?
+Answer:",10787,10787,True
+162,"Question: What is seven thousand, five hundred and forty-three plus two thousand, six hundred and seventeen?
+Answer:",10160,10160,True
+163,"Question: What is nine thousand, six hundred and ninety-eight plus two hundred and forty-four?
+Answer:",9942,9942,True
+164,"Question: What is eight thousand, five hundred and ninety-two plus four thousand, five hundred and forty-six?
+Answer:",13138,13138,True
+165,"Question: What is seven thousand, nine hundred and sixty-six plus five thousand, four hundred and seven?
+Answer:",13373,13373,True
+166,"Question: What is six thousand, one hundred and forty-four plus one thousand, eight hundred and thirty-five?
+Answer:",7979,7979,True
+167,"Question: What is five thousand, two hundred and eighty-eight plus two thousand, six hundred and ninety-four?
+Answer:",7982,7982,True
+168,"Question: What is five thousand and eighty-one plus four thousand, nine hundred and sixty-five?
+Answer:",10046,10046,True
+169,"Question: What is six thousand, five hundred and forty-three plus one thousand, eight hundred and thirty-five?
+Answer:",8378,8378,True
+170,"Question: What is nine thousand, four hundred and fifteen plus nine thousand, six hundred and twenty-four?
+Answer:",19039,19039,True
+171,"Question: What is nine thousand, six hundred and seventy-four plus six thousand, nine hundred and seventy-two?
+Answer:",16646,16646,True
+172,"Question: What is nine thousand, eight hundred and seventy-eight plus one thousand and thirty-four?
+Answer:",10912,10912,True
+173,"Question: What is nine thousand, three hundred and twenty-three plus seven thousand, four hundred and thirteen?
+Answer:",16736,16736,True
+174,"Question: What is eighty plus nine hundred and sixty-three?
+Answer:",1043,1043,True
+175,"Question: What is eight hundred and sixty-nine plus two thousand, four hundred and thirty-seven?
+Answer:",3306,3306,True
+176,"Question: What is four thousand, seven hundred and eighty-eight plus three thousand, eight hundred and seventy-eight?
+Answer:",8666,8666,True
+177,"Question: What is six thousand, nine hundred and fifty-two plus four thousand and twenty?
+Answer:",10972,6972,False
+178,"Question: What is seven hundred and eighty-four plus eight thousand, five hundred and thirty?
+Answer:",9314,9314,True
+179,"Question: What is two hundred and fifteen plus five thousand and ninety-two?
+Answer:",5307,5307,True
+180,"Question: What is five hundred and sixty-eight plus nine thousand, four hundred and twenty-eight?
+Answer:",9996,9996,True
+181,"Question: What is three thousand, one hundred and four plus six thousand, two hundred?
+Answer:",9304,9304,True
+182,"Question: What is four thousand, two hundred and fifteen plus seven thousand, one hundred and twenty-one?
+Answer:",11336,11336,True
+183,"Question: What is seven thousand, three hundred and sixty-four plus two thousand and forty?
+Answer:",9404,9404,True
+184,"Question: What is three thousand, two hundred and twenty-nine plus six thousand, seven hundred and fourteen?
+Answer:",9943,9933,False
+185,"Question: What is six thousand, seven hundred and sixty-three plus three thousand, two hundred and sixty-two?
+Answer:",10025,10025,True
+186,"Question: What is two thousand, one hundred and fifty-nine plus eight thousand, six hundred and eighteen?
+Answer:",10777,10777,True
+187,"Question: What is five thousand, six hundred and eighty-six plus four thousand and six?
+Answer:",9692,9692,True
+188,"Question: What is seven thousand, seven hundred and fifty-five plus six thousand and ninety-one?
+Answer:",13846,13846,True
+189,"Question: What is nine thousand, six hundred and eighty-nine plus seven thousand, four hundred and fifty-six?
+Answer:",17145,17145,True
+190,"Question: What is four thousand, one hundred and twenty-seven plus six thousand, one hundred and sixty?
+Answer:",10287,7287,False
+191,"Question: What is nine thousand, eight hundred and fifty-six plus four thousand, five hundred and forty-five?
+Answer:",14401,14401,True
+192,"Question: What is seven thousand plus one thousand, eight hundred and twenty?
+Answer:",8820,164,False
+193,"Question: What is six thousand, eight hundred and forty-six plus two thousand, eight hundred and eighty-five?
+Answer:",9731,9731,True
+194,"Question: What is nine hundred and twenty-four plus eight thousand, two hundred and forty-eight?
+Answer:",9172,9172,True
+195,"Question: What is seven thousand, eight hundred plus three thousand, four hundred and eighty-six?
+Answer:",11286,11286,True
+196,"Question: What is three thousand and ninety-six plus seven thousand, six hundred and twenty-five?
+Answer:",10721,10721,True
+197,"Question: What is five thousand, two hundred and sixty-two plus eight thousand, five hundred and seventy-four?
+Answer:",13836,13836,True
+198,"Question: What is nine thousand, seven hundred and twenty plus four thousand, one hundred and thirty-one?
+Answer:",13851,13851,True
+199,"Question: What is eight thousand, seven hundred and seventeen plus six thousand, three hundred and twenty-nine?
+Answer:",15046,15046,True

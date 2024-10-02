@@ -1,0 +1,401 @@
+problem,expected_answer,gpt4_answer,is_correct
+"Question: What is five hundred and nine minus four hundred and eighty-eight?
+Answer:",21,21,True
+"Question: What is eighty-seven minus two hundred and fifty-one?
+Answer:",-164,-164,True
+"Question: What is eight hundred and fifty-one minus fifty-six?
+Answer:",795,795,True
+"Question: What is three hundred and eighty-five minus two hundred and eleven?
+Answer:",174,174,True
+"Question: What is four hundred and sixty-two minus seven hundred and sixty-two?
+Answer:",-300,-300,True
+"Question: What is one hundred and five minus eight hundred and forty-six?
+Answer:",-741,-741,True
+"Question: What is two hundred and ninety-nine minus nine hundred and sixty-five?
+Answer:",-666,-666,True
+"Question: What is nine hundred and ninety-three minus forty?
+Answer:",953,953,True
+"Question: What is nine hundred and sixty-five minus two hundred and fifty-four?
+Answer:",711,711,True
+"Question: What is seven hundred and twenty-five minus nine hundred and sixty-four?
+Answer:",-239,-239,True
+"Question: What is three hundred and eighty-two minus four hundred and seventy-eight?
+Answer:",-96,-96,True
+"Question: What is two hundred and twenty-seven minus two hundred and fourteen?
+Answer:",13,13,True
+"Question: What is two hundred and fifty minus one hundred and four?
+Answer:",146,146,True
+"Question: What is two hundred and four minus nine hundred and ninety-three?
+Answer:",-789,-789,True
+"Question: What is three hundred and fifty minus three hundred and thirty-three?
+Answer:",17,17,True
+"Question: What is four hundred and fifty-eight minus eleven?
+Answer:",447,447,True
+"Question: What is one hundred and fifty-six minus five hundred and ninety-one?
+Answer:",-435,-435,True
+"Question: What is six hundred and forty-nine minus seven hundred and thirty-five?
+Answer:",-86,-86,True
+"Question: What is three hundred and forty-five minus seven hundred and seven?
+Answer:",-362,-362,True
+"Question: What is three hundred and sixty-nine minus eight hundred and sixty-seven?
+Answer:",-498,-498,True
+"Question: What is four hundred and eighty-nine minus two hundred and eighty?
+Answer:",209,209,True
+"Question: What is seven hundred and forty minus eight hundred and sixty-nine?
+Answer:",-129,-129,True
+"Question: What is six hundred and ninety-one minus two hundred and sixty-five?
+Answer:",426,426,True
+"Question: What is one hundred and twenty-seven minus three hundred and ninety?
+Answer:",-263,-263,True
+"Question: What is three hundred and fifty-eight minus eight hundred and sixty-seven?
+Answer:",-509,-509,True
+"Question: What is eight hundred and ninety-five minus nine hundred and forty-six?
+Answer:",-51,-51,True
+"Question: What is eight hundred and nine minus two hundred and seventy?
+Answer:",539,539,True
+"Question: What is thirty-six minus three hundred and twenty?
+Answer:",-284,-284,True
+"Question: What is six hundred and twenty-six minus nine hundred and ninety-four?
+Answer:",-368,-368,True
+"Question: What is one hundred and ten minus three hundred and nine?
+Answer:",-199,-199,True
+"Question: What is three hundred and sixty-eight minus nine hundred and fifty-one?
+Answer:",-583,-583,True
+"Question: What is four hundred and sixty-two minus seven hundred and thirty-five?
+Answer:",-273,-273,True
+"Question: What is six hundred and fifty-three minus nine hundred and six?
+Answer:",-253,-253,True
+"Question: What is five hundred and six minus three hundred and fifty-one?
+Answer:",155,155,True
+"Question: What is three hundred and sixty-three minus nine hundred and forty-eight?
+Answer:",-585,-585,True
+"Question: What is seven hundred and seventy-seven minus one hundred and fifty-nine?
+Answer:",618,618,True
+"Question: What is three minus four hundred and forty-six?
+Answer:",-443,-443,True
+"Question: What is nine hundred and fifty-nine minus two hundred and ninety-two?
+Answer:",667,667,True
+"Question: What is three hundred and twenty minus eight hundred and seventy?
+Answer:",-550,-550,True
+"Question: What is one hundred and fifty-one minus one hundred and forty-four?
+Answer:",7,7,True
+"Question: What is eight hundred and eighty-nine minus five hundred and sixty-eight?
+Answer:",321,321,True
+"Question: What is one hundred and sixty-two minus three hundred and fifty-one?
+Answer:",-189,-189,True
+"Question: What is six hundred and eighty-five minus one hundred and sixty-one?
+Answer:",524,524,True
+"Question: What is eight hundred and twenty-three minus one hundred and forty-six?
+Answer:",677,677,True
+"Question: What is eight hundred and one minus thirty-two?
+Answer:",769,769,True
+"Question: What is five hundred and seventy-two minus fourteen?
+Answer:",558,558,True
+"Question: What is one hundred and sixty-eight minus four hundred and eighty-one?
+Answer:",-313,-313,True
+"Question: What is one hundred and sixty-five minus seven hundred and fifty-five?
+Answer:",-590,-590,True
+"Question: What is ninety-four minus eight hundred and seventy-four?
+Answer:",-780,-780,True
+"Question: What is two hundred and eighty-six minus sixty-three?
+Answer:",223,223,True
+"Question: What is two hundred and ninety-eight minus seven hundred and eighty-seven?
+Answer:",-489,-489,True
+"Question: What is eight hundred and fifty-nine minus two hundred and five?
+Answer:",654,654,True
+"Question: What is eight hundred and eighty-three minus two hundred and seven?
+Answer:",676,676,True
+"Question: What is four hundred and fifty-eight minus three hundred and ninety-seven?
+Answer:",61,61,True
+"Question: What is nine hundred and forty-nine minus nine hundred and fifty?
+Answer:",-1,-1,True
+"Question: What is one hundred and seventy-seven minus six hundred and ninety?
+Answer:",-513,-513,True
+"Question: What is six hundred and thirty-five minus seven?
+Answer:",628,628,True
+"Question: What is six hundred and seventy-one minus twelve?
+Answer:",659,659,True
+"Question: What is eight hundred and eight minus three hundred and eight?
+Answer:",500,500,True
+"Question: What is four hundred and seventeen minus five hundred and three?
+Answer:",-86,-86,True
+"Question: What is five hundred and seventy-five minus nine hundred and seventy-five?
+Answer:",-400,-400,True
+"Question: What is three hundred and fifty-five minus one hundred and eighty-eight?
+Answer:",167,167,True
+"Question: What is three hundred and eighteen minus three hundred and forty?
+Answer:",-22,-22,True
+"Question: What is twelve minus eight hundred and ninety-four?
+Answer:",-882,-882,True
+"Question: What is eight hundred and ninety-six minus seven hundred and forty-four?
+Answer:",152,152,True
+"Question: What is four hundred and eighty-four minus nine hundred and nineteen?
+Answer:",-435,-435,True
+"Question: What is fifty-three minus thirty?
+Answer:",23,23,True
+"Question: What is seven hundred and ninety-one minus one hundred and nine?
+Answer:",682,682,True
+"Question: What is eight hundred and sixty-five minus five hundred and thirty-one?
+Answer:",334,334,True
+"Question: What is three hundred and fifteen minus nine hundred and thirty-four?
+Answer:",-619,-619,True
+"Question: What is one hundred and fifty-five minus one hundred and twenty-eight?
+Answer:",27,27,True
+"Question: What is three hundred and twenty minus eight hundred and ninety?
+Answer:",-570,-570,True
+"Question: What is six hundred and thirty-four minus one hundred and forty-four?
+Answer:",490,490,True
+"Question: What is four hundred and two minus one hundred and eighty-nine?
+Answer:",213,213,True
+"Question: What is three hundred and four minus one hundred and thirteen?
+Answer:",191,191,True
+"Question: What is seven hundred and thirty-eight minus eight hundred and ten?
+Answer:",-72,-72,True
+"Question: What is sixty minus eight hundred and thirty-four?
+Answer:",-774,-774,True
+"Question: What is eight hundred and nine minus four hundred and ninety-eight?
+Answer:",311,311,True
+"Question: What is eight hundred and fifty-one minus two hundred and four?
+Answer:",647,647,True
+"Question: What is six hundred and sixty-two minus three hundred and nineteen?
+Answer:",343,343,True
+"Question: What is three hundred and twenty-one minus three hundred and ninety-four?
+Answer:",-73,-73,True
+"Question: What is eight hundred and eleven minus two hundred and forty-nine?
+Answer:",562,562,True
+"Question: What is two hundred and forty-three minus five hundred and sixty?
+Answer:",-317,-317,True
+"Question: What is nine hundred and fifty minus five hundred and sixty-seven?
+Answer:",383,383,True
+"Question: What is one hundred and seventy-eight minus four hundred and sixty-seven?
+Answer:",-289,-289,True
+"Question: What is eight hundred and ninety-nine minus nine hundred and ninety-eight?
+Answer:",-99,-99,True
+"Question: What is fifty-three minus one hundred and fifty-nine?
+Answer:",-106,-106,True
+"Question: What is eight hundred and sixty-five minus six hundred and fifty?
+Answer:",215,215,True
+"Question: What is seven hundred and eighty-nine minus seventy-nine?
+Answer:",710,710,True
+"Question: What is seven hundred and four minus two hundred and seventeen?
+Answer:",487,487,True
+"Question: What is five hundred and fifty-nine minus six hundred and sixty-one?
+Answer:",-102,-102,True
+"Question: What is three hundred and sixty-three minus six hundred and sixty-seven?
+Answer:",-304,-304,True
+"Question: What is two hundred and thirty-six minus six hundred and seventy?
+Answer:",-434,-434,True
+"Question: What is five hundred and seventy minus two hundred and forty?
+Answer:",330,330,True
+"Question: What is nine hundred and three minus seven hundred and seventy-five?
+Answer:",128,128,True
+"Question: What is seven hundred and eighty-six minus six hundred and eighty-nine?
+Answer:",97,97,True
+"Question: What is six hundred and thirty-seven minus three hundred and forty-seven?
+Answer:",290,290,True
+"Question: What is one hundred and eighteen minus four hundred and thirty-three?
+Answer:",-315,-315,True
+"Question: What is three hundred and ninety-three minus two hundred and fifteen?
+Answer:",178,178,True
+"Question: What is three hundred and ninety-four minus six hundred and ninety-one?
+Answer:",-297,-297,True
+"Question: What is one hundred and twenty-four minus seventy-five?
+Answer:",49,49,True
+"Question: What is two hundred and twenty-nine minus three hundred and thirty-five?
+Answer:",-106,-106,True
+"Question: What is four hundred and fifty-seven minus eight hundred and thirteen?
+Answer:",-356,-356,True
+"Question: What is three hundred and nine minus seven hundred and seventy-eight?
+Answer:",-469,-469,True
+"Question: What is nine hundred and fifty-seven minus eight hundred and eighty-six?
+Answer:",71,71,True
+"Question: What is two hundred and eighty-six minus sixty-eight?
+Answer:",218,218,True
+"Question: What is one hundred and ninety-nine minus one hundred and ninety-four?
+Answer:",5,5,True
+"Question: What is six hundred and sixty-two minus seventy-six?
+Answer:",586,586,True
+"Question: What is eight hundred and ninety-two minus seven hundred and fifty-one?
+Answer:",141,141,True
+"Question: What is nine hundred and fifty-five minus four hundred and one?
+Answer:",554,554,True
+"Question: What is two hundred and forty-four minus three hundred and two?
+Answer:",-58,-58,True
+"Question: What is one hundred and fourteen minus nine hundred and six?
+Answer:",-792,-792,True
+"Question: What is two hundred and forty-four minus two hundred and four?
+Answer:",40,40,True
+"Question: What is seven hundred and eighty-nine minus nine hundred and twenty-six?
+Answer:",-137,-137,True
+"Question: What is six hundred and fifty-two minus seven hundred and seventy-six?
+Answer:",-124,-124,True
+"Question: What is seven hundred and eighteen minus five hundred and thirty?
+Answer:",188,188,True
+"Question: What is three hundred and twenty-four minus ninety-nine?
+Answer:",225,225,True
+"Question: What is two hundred and seventy-two minus eight hundred and eighty-seven?
+Answer:",-615,-615,True
+"Question: What is eight hundred and sixty-five minus one hundred and ninety-four?
+Answer:",671,671,True
+"Question: What is seven hundred and twenty-nine minus four hundred and thirty-eight?
+Answer:",291,291,True
+"Question: What is twenty-six minus six hundred and thirty-nine?
+Answer:",-613,-613,True
+"Question: What is three hundred and eighteen minus six hundred and thirty-two?
+Answer:",-314,-314,True
+"Question: What is eight hundred and four minus one hundred and ten?
+Answer:",694,694,True
+"Question: What is one hundred and sixteen minus five hundred and forty-one?
+Answer:",-425,-425,True
+"Question: What is eight hundred and five minus four hundred and forty-one?
+Answer:",364,364,True
+"Question: What is seven hundred and fifty-nine minus five hundred and twenty-two?
+Answer:",237,237,True
+"Question: What is three hundred and eighteen minus five hundred and thirty-three?
+Answer:",-215,-215,True
+"Question: What is eight hundred and seventeen minus forty-six?
+Answer:",771,771,True
+"Question: What is six hundred and twenty-five minus nine hundred and four?
+Answer:",-279,-279,True
+"Question: What is six hundred and forty-three minus one hundred and sixty-two?
+Answer:",481,481,True
+"Question: What is one hundred and forty-seven minus eight hundred and seventeen?
+Answer:",-670,-670,True
+"Question: What is four hundred and two minus ninety-four?
+Answer:",308,308,True
+"Question: What is three hundred and eighty-one minus six hundred and fifty?
+Answer:",-269,-269,True
+"Question: What is nine hundred and thirty-nine minus eighty-eight?
+Answer:",851,851,True
+"Question: What is seven hundred and fifty minus ninety-eight?
+Answer:",652,652,True
+"Question: What is one hundred and two minus seven hundred and sixty-eight?
+Answer:",-666,-666,True
+"Question: What is seven hundred and sixteen minus seven hundred and seventy-six?
+Answer:",-60,-60,True
+"Question: What is six hundred and seventy-eight minus five hundred and twelve?
+Answer:",166,166,True
+"Question: What is three hundred and six minus eight hundred and seventeen?
+Answer:",-511,-511,True
+"Question: What is four hundred and seventy-one minus four hundred and seventy-one?
+Answer:",0,0,True
+"Question: What is seven minus nine hundred and twenty-one?
+Answer:",-914,-914,True
+"Question: What is nine hundred and sixty-six minus five hundred and seventy-seven?
+Answer:",389,389,True
+"Question: What is four hundred and thirty minus three hundred and ninety-eight?
+Answer:",32,32,True
+"Question: What is eight hundred and ninety-five minus seven hundred and twenty-one?
+Answer:",174,174,True
+"Question: What is two hundred and sixty minus two hundred and fifty-three?
+Answer:",7,7,True
+"Question: What is one hundred and four minus one hundred and fifty-two?
+Answer:",-48,-48,True
+"Question: What is seven hundred and eighty-one minus six hundred and sixty-three?
+Answer:",118,118,True
+"Question: What is eighty-four minus three hundred and ninety-four?
+Answer:",-310,-310,True
+"Question: What is four hundred and nineteen minus nine hundred and eighteen?
+Answer:",-499,-499,True
+"Question: What is six hundred and eighty minus nine hundred and seventy-three?
+Answer:",-293,-293,True
+"Question: What is three hundred and eighty-one minus three hundred and ninety-one?
+Answer:",-10,-10,True
+"Question: What is seventy-four minus one hundred and twenty-two?
+Answer:",-48,-48,True
+"Question: What is one hundred and one minus five hundred and eighty-four?
+Answer:",-483,-483,True
+"Question: What is four hundred and thirty-nine minus five hundred and sixteen?
+Answer:",-77,-77,True
+"Question: What is four hundred and eighty-six minus seven hundred and fifty-four?
+Answer:",-268,-268,True
+"Question: What is two hundred and five minus forty-eight?
+Answer:",157,157,True
+"Question: What is six hundred and fifty-seven minus six hundred and twelve?
+Answer:",45,45,True
+"Question: What is eight hundred and fifty-eight minus two hundred and eighty?
+Answer:",578,578,True
+"Question: What is twenty-six minus nine hundred and sixteen?
+Answer:",-890,-890,True
+"Question: What is four hundred and twenty-seven minus sixty-four?
+Answer:",363,363,True
+"Question: What is two hundred and three minus two hundred and fifty-seven?
+Answer:",-54,-54,True
+"Question: What is nine hundred and forty-one minus eight hundred and twelve?
+Answer:",129,129,True
+"Question: What is nine hundred and twenty-two minus six hundred and one?
+Answer:",321,321,True
+"Question: What is eight hundred and forty-one minus ninety-nine?
+Answer:",742,742,True
+"Question: What is one hundred and twenty-five minus eighty-four?
+Answer:",41,41,True
+"Question: What is one hundred and sixty-three minus fifty-eight?
+Answer:",105,105,True
+"Question: What is one hundred and fifty-seven minus eight hundred and eighty-seven?
+Answer:",-730,-730,True
+"Question: What is three hundred and forty-nine minus three hundred and ten?
+Answer:",39,39,True
+"Question: What is eight hundred and forty-seven minus three hundred and seventeen?
+Answer:",530,530,True
+"Question: What is nine hundred and eighty-one minus three hundred and ninety-two?
+Answer:",589,589,True
+"Question: What is three hundred and thirty-eight minus one hundred and four?
+Answer:",234,234,True
+"Question: What is eight hundred and fifty-two minus seven hundred and eighty-two?
+Answer:",70,70,True
+"Question: What is six hundred and eighty-two minus nine hundred and eighty-six?
+Answer:",-304,-304,True
+"Question: What is four hundred and forty-two minus three hundred and sixty-eight?
+Answer:",74,74,True
+"Question: What is three hundred and forty-eight minus seven hundred and fifty?
+Answer:",-402,-402,True
+"Question: What is nine hundred and ninety-seven minus four hundred and sixty-four?
+Answer:",533,533,True
+"Question: What is nine hundred and seventy-nine minus five hundred and six?
+Answer:",473,473,True
+"Question: What is nine hundred and two minus two hundred and fifty-eight?
+Answer:",644,644,True
+"Question: What is six hundred and nineteen minus forty-two?
+Answer:",577,577,True
+"Question: What is five hundred and forty-three minus one hundred and eighty-five?
+Answer:",358,358,True
+"Question: What is thirty minus five hundred and seventy-nine?
+Answer:",-549,-549,True
+"Question: What is seven hundred and fifty-two minus nine hundred and eighteen?
+Answer:",-166,-166,True
+"Question: What is four hundred and eighty-four minus seven hundred and one?
+Answer:",-217,-217,True
+"Question: What is seventy-eight minus three hundred and eighty-eight?
+Answer:",-310,-310,True
+"Question: What is seven hundred and twenty-nine minus four hundred and eighty-seven?
+Answer:",242,242,True
+"Question: What is three hundred and eighty-six minus nine hundred and two?
+Answer:",-516,-516,True
+"Question: What is one hundred and sixty-one minus thirty-four?
+Answer:",127,127,True
+"Question: What is one hundred and ten minus five hundred and ninety?
+Answer:",-480,-480,True
+"Question: What is two hundred and forty-nine minus nine hundred and sixty?
+Answer:",-711,-711,True
+"Question: What is nine hundred and sixty-four minus nine hundred and forty-two?
+Answer:",22,22,True
+"Question: What is six hundred and forty-three minus three hundred and twenty-eight?
+Answer:",315,315,True
+"Question: What is three hundred and ninety-three minus three hundred and fifty-eight?
+Answer:",35,35,True
+"Question: What is three hundred and fifty-five minus seven hundred and forty-nine?
+Answer:",-394,-394,True
+"Question: What is sixty-four minus eight hundred and seventy-two?
+Answer:",-808,-808,True
+"Question: What is four hundred and seventeen minus eight hundred and twenty-six?
+Answer:",-409,-409,True
+"Question: What is seventy minus three hundred and seventy-four?
+Answer:",-304,-304,True
+"Question: What is eight hundred and sixty-six minus nine hundred and forty-seven?
+Answer:",-81,-81,True
+"Question: What is four hundred and thirty-eight minus six hundred and eight?
+Answer:",-170,-170,True
+"Question: What is eight hundred and two minus seven hundred and seven?
+Answer:",95,95,True
+"Question: What is two hundred and sixty-two minus four hundred and twenty-four?
+Answer:",-162,-162,True
